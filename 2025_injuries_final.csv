@@ -1,0 +1,971 @@
+Position,Player,Game,Position (copy),Injury,Opponent,Score,CHIP ($k),GameAdj,Team,Season
+F,Barkov,1,F,Knee,CHI,3-2,122,1,Florida,2025/26
+F,Batherson,1,F,Upper body,@TBL,5-4,61,1,Ottawa,2025/26
+F,Benn,1,F,Upper body,@WPG,5-4,49,1,Dallas,2025/26
+F,Benson,1,F,Facial,NYR,0-4,20,1,Buffalo,2025/26
+G,Blackwood,1,G,Lower body,@LAK,4-1,64,1,Colorado,2025/26
+D,Brodin,1,D,Upper body,@STL,5-0,73,1,Minnesota,2025/26
+G,Brossoit,1,G,Hip,@FLA,2-3,40,1,Chicago,2025/26
+F,Bäck,1,F,Undisclosed,@WPG,5-4,10,1,Dallas,2025/26
+F,Bļugers,1,F,Undisclosed,CGY,5-1,22,1,Vancouver,2025/26
+"F ""Retired""",Couture,1,"F ""Retired""",Groin,VGK,3-4 (OT),98,1,San Jose,2025/26
+"D ""Retired""",Ellis,1,"D ""Retired""",Back,VGK,3-4 (OT),76,1,San Jose,2025/26
+F,Engvall,1,F,Ankle,@PIT,3-4,37,1,NY Islanders,2025/26
+D,Evans,1,D,Upper body,ANA,3-1,25,1,Seattle,2025/26
+F,Girgensons,1,F,Undisclosed,OTT,4-5,10,1,Tampa Bay,2025/26
+F,Greenway,1,F,Lower body,NYR,0-4,49,1,Buffalo,2025/26
+D,Hague,1,D,Upper body,CBJ,2-1,67,1,Nashville,2025/26
+F,Harkins,1,F,Upper body,@SEA,1-3,10,1,Anaheim,2025/26
+F,Hayton,1,F,Undisclosed,@COL,1-2,32,1,Utah,2025/26
+F,Huberdeau,1,F,Undisclosed,@EDM,4-3 (SO),128,1,Calgary,2025/26
+F,Hyman,1,F,Wrist,CGY,3-4 (SO),67,1,Edmonton,2025/26
+F,Höglander,1,F,Lower body,CGY,5-1,37,1,Vancouver,2025/26
+F,Janmark,1,F,Undisclosed,CGY,3-4 (SO),18,1,Edmonton,2025/26
+D,Joseph,1,D,Undisclosed,CGY,5-1,9,1,Vancouver,2025/26
+F,K. Hayes,1,F,Upper body,@NYR,3-0,44,1,Pittsburgh,2025/26
+F,Kakko,1,F,Hand,ANA,3-1,55,1,Seattle,2025/26
+F,Kerfoot,1,F,Abdominal,@COL,1-2,37,1,Utah,2025/26
+D,Kesselring,1,D,Lower body,NYR,0-4,17,1,Buffalo,2025/26
+D,Kleven,1,D,Undisclosed,@TBL,5-4,20,1,Ottawa,2025/26
+G,Kochetkov,1,G,Lower body,NJD,6-3,24,1,Carolina,2025/26
+D,Kovacevic,1,D,Knee,@CAR,3-6,49,1,New Jersey,2025/26
+"D ""Retired""",Krug,1,"D ""Retired""",Ankle,MIN,0-5,79,1,St. Louis,2025/26
+F,Lammikko,1,F,Lower body,@CAR,3-6,10,1,New Jersey,2025/26
+F,Laughton,1,F,Lower body,MTL,5-2,18,1,Toronto,2025/26
+F,Lowry,1,F,Hip,DAL,4-5,40,1,Winnipeg,2025/26
+G,Luukkonen,1,G,Lower body,NYR,0-4,58,1,Buffalo,2025/26
+D,McIlrath,1,D,Lower body,BOS,1-3,10,1,Washington,2025/26
+F,Noesen,1,F,Groin,@CAR,3-6,34,1,New Jersey,2025/26
+F,Nosek,1,F,Knee,CHI,3-2,9,1,Florida,2025/26
+F,O'Brien,1,F,Undisclosed,@COL,1-2,12,1,Utah,2025/26
+F,O'Connor,1,F,Hip,@LAK,4-1,30,1,Colorado,2025/26
+F,Paul,1,F,Upper body,OTT,4-5,38,1,Tampa Bay,2025/26
+F,Perfetti,1,F,Ankle,DAL,4-5,40,1,Winnipeg,2025/26
+F,Perry,1,F,Knee,COL,1-4,49,1,Los Angeles,2025/26
+D,Pietrangelo,1,D,Hip,LAK,5-6 (SO),107,1,Vegas,2025/26
+F,Pospíšil,1,F,Undisclosed,@EDM,4-3 (SO),12,1,Calgary,2025/26
+D,Power,1,D,Illness,NYR,0-4,102,1,Buffalo,2025/26
+"G ""Retired""",Price,1,"G ""Retired""",Knee,VGK,3-4 (OT),128,1,San Jose,2025/26
+D,Ristolainen,1,D,Triceps,@FLA,1-2,62,1,Philadelphia,2025/26
+F,Rust,1,F,Lower body,@NYR,3-0,63,1,Pittsburgh,2025/26
+D,Samberg,1,D,Wrist,DAL,4-5,70,1,Winnipeg,2025/26
+F,Slaggert,1,F,Lower body,@FLA,2-3,11,1,Chicago,2025/26
+D,St. Ivany,1,D,Lower body,@NYR,3-0,9,1,Pittsburgh,2025/26
+F,Strome,1,F,Upper body,@SEA,1-3,61,1,Anaheim,2025/26
+F,Sturm,1,F,Back,@STL,5-0,24,1,Minnesota,2025/26
+F,Sundqvist,1,F,Lower body,MIN,0-5,18,1,St. Louis,2025/26
+F,Tkachuk,1,F,Groin,CHI,3-2,116,1,Florida,2025/26
+G,Varlamov,1,G,Knee,@PIT,3-4,34,1,NY Islanders,2025/26
+D,Vlasic,1,D,Lower body,@FLA,2-3,56,1,Chicago,2025/26
+D,Walman,1,D,Undisclosed,CGY,3-4 (SO),41,1,Edmonton,2025/26
+"D ""Retired""",Weber,1,"D ""Retired""",Ankle,@FLA,2-3,96,1,Chicago,2025/26
+D,York,1,D,Lower body,@FLA,1-2,63,1,Philadelphia,2025/26
+F,Zuccarello,1,F,Lower body,@STL,5-0,50,1,Minnesota,2025/26
+F,Dadonov,2,F,Hand,@TBL,5-3,40,2,New Jersey,2025/26
+D,Hanifin,2,D,Lower body,@SJS,4-3 (OT),90,2,Vegas,2025/26
+F,Norris,2,F,Upper body,@BOS,1-3,97,2,Buffalo,2025/26
+F,Toropchenko,2,F,Upper body,@CGY,4-2,21,2,St. Louis,2025/26
+F,Dickinson,3,F,Upper body,MTL,2-3,52,3,Chicago,2025/26
+D,Durzi,3,D,Upper body,@CHI,1-3,73,3,Utah,2025/26
+D,Fleury,3,D,Knee,@NYI,5-2,12,3,Winnipeg,2025/26
+D,Forbort,3,D,Undisclosed,STL,2-5,24,3,Vancouver,2025/26
+D,Girard,3,D,Upper body,DAL,4-5 (SO),61,3,Colorado,2025/26
+D,Gudbranson,3,D,Upper body,NJD,2-3,49,3,Columbus,2025/26
+D,H. Lindholm,3,D,Lower body,BUF,3-1,79,3,Boston,2025/26
+D,Jaccob Slavin,3,D,Lower body,@SJS,5-1,79,3,Carolina,2025/26
+D,Kulikov,3,D,Upper body,OTT,6-2,14,3,Florida,2025/26
+F,Lorentz,3,F,Upper body,DET,2-3,16,3,Toronto,2025/26
+F,MacEwen,3,F,Upper body,@CBJ,3-2,9,3,New Jersey,2025/26
+D,Regula,3,D,Undisclosed,@NYR,2-0,9,3,Edmonton,2025/26
+D,Samuelsson,3,D,Upper body,COL,1-3,52,3,Buffalo,2025/26
+F,Trocheck,3,F,Upper body,@PIT,6-1,69,3,NY Rangers,2025/26
+F,Dubois,4,F,Lower body,TBL,3-2 (OT),104,4,Washington,2025/26
+F,Duchene,4,F,Upper body,VAN,3-5,55,4,Dallas,2025/26
+F,Howden,4,F,Lower body,@CGY,4-2,30,4,Vegas,2025/26
+D,Klingberg,4,D,Lower body,@UTA,3-6,49,4,San Jose,2025/26
+D,Liljegren,4,D,Upper body,@UTA,3-6,37,4,San Jose,2025/26
+G,Markström,4,G,Lower body,FLA,3-1,50,4,New Jersey,2025/26
+D,Mukhamadullin,4,D,Upper body,@UTA,3-6,12,4,San Jose,2025/26
+F,Raymond,4,F,Upper body,FLA,4-1,98,4,Detroit,2025/26
+D,Soucy,4,D,Upper body,WSH,0-1,40,4,NY Rangers,2025/26
+F,Tkachuk,4,F,Thumb,@BUF,4-8,100,4,Ottawa,2025/26
+F,Wood,4,F,Eye,COL,1-4,30,4,Columbus,2025/26
+D,Crozier,5,D,Undisclosed,@DET,1-2 (OT),9,5,Tampa Bay,2025/26
+F,Danforth,5,F,Knee,FLA,3-0,22,5,Buffalo,2025/26
+F,Gaudreau,5,F,Upper body,@TOR,4-3 (OT),26,5,Seattle,2025/26
+F,Kopitar,5,F,Foot,PIT,2-4,85,5,Los Angeles,2025/26
+F,Kucherov,5,F,Illness,@DET,1-2 (OT),116,5,Tampa Bay,2025/26
+G,Kuemper,5,G,Lower body,PIT,2-4,64,5,Los Angeles,2025/26
+D,Lundkvist,5,D,Lower body,@STL,1-3,15,5,Dallas,2025/26
+D,Romanov,5,D,Upper body,@OTT,5-4,76,5,NY Islanders,2025/26
+D,Bogosian,6,D,Lower body,@PHI,1-2 (OT),15,6,Minnesota,2025/26
+D,Bryson,6,D,Concussion,@MTL,2-4,11,6,Buffalo,2025/26
+F,Dach,6,F,Lower body,NYR,3-4,41,6,Montreal,2025/26
+F,Duchene,6,F,Upper body,CBJ,1-5,55,6,Dallas,2025/26
+D,Gostisbehere,6,D,Lower body,@VGK,1-4,39,6,Carolina,2025/26
+D,Guhle,6,D,Groin,NYR,3-4,68,6,Montreal,2025/26
+F,Kane,6,F,Upper body,EDM,4-2,85,6,Detroit,2025/26
+F,Kiviranta,6,F,Lower body,BOS,4-1,15,6,Colorado,2025/26
+F,Kreider,6,F,Illness,@NSH,5-2,79,6,Anaheim,2025/26
+F,Laine,6,F,Abdominal,NYR,3-4,106,6,Montreal,2025/26
+F,Marchessault,6,F,Lower body,@WPG,1-4,67,6,Nashville,2025/26
+F,McCann,6,F,Lower body,@PHI,2-5,61,6,Seattle,2025/26
+F,Bļugers,7,F,Lower body,@PIT,1-5,22,7,Vancouver,2025/26
+F,Chytil,7,F,Upper body,@PIT,1-5,54,7,Vancouver,2025/26
+F,Dickinson,7,F,Undisclosed,ANA,2-1 (OT),52,7,Chicago,2025/26
+F,Glass,7,F,Upper body,MIN,4-1,30,7,New Jersey,2025/26
+D,H. Lindholm,7,D,Undisclosed,@UTA,2-3,79,7,Boston,2025/26
+F,Kapanen,7,F,Lower body,@OTT,3-2 (OT),16,7,Edmonton,2025/26
+F,Lekkerimäki,7,F,Undisclosed,@PIT,1-5,17,7,Vancouver,2025/26
+F,Marchment,7,F,Lower body,@WSH,1-4,55,7,Seattle,2025/26
+D,Miller,7,D,Lower body,@COL,5-4 (SO),91,7,Carolina,2025/26
+F,Rossi,7,F,Lower body,@NYR,3-1,61,7,Minnesota,2025/26
+F,Shabanov,7,F,Upper body,DET,7-2,55,7,NY Islanders,2025/26
+F,Stone,7,F,Wrist,CAR,4-1,116,7,Vegas,2025/26
+F,Carrier,8,F,Lower body,@DAL,2-3,24,8,Carolina,2025/26
+D,Gudas,8,D,Lower body,@TBL,3-4,49,8,Anaheim,2025/26
+G,Hill,8,G,Lower body,@FLA,0-3,76,8,Vegas,2025/26
+D,Leddy,8,D,Upper body,@NJD,1-3,49,8,San Jose,2025/26
+D,Rielly,8,D,Undisclosed,@BUF,3-5,91,8,Toronto,2025/26
+F,Robinson,8,F,Upper body,@DAL,2-3,21,8,Carolina,2025/26
+D,Sandin,8,D,Upper body,@CBJ,5-1,56,8,Washington,2025/26
+D,Tanev,8,D,Concussion,@BUF,3-5,55,8,Toronto,2025/26
+F,Bertuzzi,9,F,Undisclosed,LAK,1-3,67,9,Chicago,2025/26
+G,Ellis,9,G,Back,@TOR,3-4 (OT),9,9,Buffalo,2025/26
+F,Granlund,9,F,Lower body,@FLA,3-2 (SO),85,9,Anaheim,2025/26
+D,Gudbranson,9,D,Hip,@BUF,4-3 (OT),49,9,Columbus,2025/26
+D,Harris,9,D,Ankle,ANA,5-7,10,9,Boston,2025/26
+F,Hintz,9,F,Undisclosed,@NSH,3-2,103,9,Dallas,2025/26
+D,Jones,9,D,Lower body,CBJ,4-5 (SO),11,9,Pittsburgh,2025/26
+D,Josi,9,D,Upper body,LAK,5-4 (SO),110,9,Nashville,2025/26
+F,Kozak,9,F,Lower body,@TOR,3-4 (OT),9,9,Buffalo,2025/26
+F,Neighbours,9,F,Leg,@PIT,3-6,46,9,St. Louis,2025/26
+F,Nylander,9,F,Lower body,BUF,4-3 (OT),140,9,Toronto,2025/26
+F,Thomas,9,F,Upper body,@PIT,3-6,99,9,St. Louis,2025/26
+F,Bäck,10,F,Upper body,WSH,1-0,10,10,Dallas,2025/26
+G,Ersson,10,G,Lower body,NSH,4-1,18,10,Philadelphia,2025/26
+F,Gaudette,10,F,Upper body,LAK,3-4,24,10,San Jose,2025/26
+D,Gostisbehere,10,D,Abdominal,NYI,6-2,39,10,Carolina,2025/26
+D,Hughes,10,D,Lower body,EDM,4-3 (OT),96,10,Vancouver,2025/26
+F,Järnkrok,10,F,Lower body,CGY,4-3,26,10,Toronto,2025/26
+F,M. Foligno,10,F,Upper body,SJS,5-6 (OT),49,10,Minnesota,2025/26
+F,Mikheyev,10,F,Upper body,OTT,7-3,49,10,Chicago,2025/26
+D,Pesce,10,D,Upper body,@COL,4-8,67,10,New Jersey,2025/26
+F,Rakell,10,F,Hand,STL,6-3,61,10,Pittsburgh,2025/26
+F,Rempe,10,F,Upper body,@CGY,1-5,12,10,NY Rangers,2025/26
+F,Sissons,10,F,Undisclosed,@CAR,6-3,17,10,Vegas,2025/26
+F,Strome,10,F,Lower body,@DAL,0-1,61,10,Washington,2025/26
+F,Couturier,11,F,Upper body,TOR,2-5,95,11,Philadelphia,2025/26
+F,Foegele,11,F,Upper body,@SJS,4-3,43,11,Los Angeles,2025/26
+F,Frank,11,F,Upper body,NYI,1-3,9,11,Washington,2025/26
+F,Gadjovich,11,F,Upper body,ANA,2-3 (SO),9,11,Florida,2025/26
+D,Mancini,11,D,Upper body,NYR,0-2,12,11,Vancouver,2025/26
+F,Nylander,11,F,Lower body,@CBJ,3-6,140,11,Toronto,2025/26
+F,Benson,12,F,Lower body,WSH,4-3 (SO),20,12,Buffalo,2025/26
+F,Brown,12,F,Upper body,@LAK,4-1,37,12,New Jersey,2025/26
+F,Dickinson,12,F,Shoulder,@EDM,2-3 (OT),52,12,Chicago,2025/26
+F,Dubois,12,F,Abdominal,@BUF,3-4 (SO),104,12,Washington,2025/26
+F,Foerster,12,F,Lower body,CGY,1-2,46,12,Philadelphia,2025/26
+F,Garland,12,F,Undisclosed,@STL,4-3 (SO),60,12,Vancouver,2025/26
+F,Lorentz,12,F,Upper body,@PHI,5-2,16,12,Toronto,2025/26
+F,Nyquist,12,F,Undisclosed,PIT,5-2,40,12,Winnipeg,2025/26
+D,Parekh,12,D,Illness,@OTT,3-4 (SO),24,12,Calgary,2025/26
+F,Reaves,12,F,Lower body,COL,3-2 (OT),16,12,San Jose,2025/26
+D,Wilsby,12,D,Lower body,@PHI,1-4,9,12,Nashville,2025/26
+F,Barron,13,F,Undisclosed,@LAK,0-3,23,13,Winnipeg,2025/26
+F,Brazeau,13,F,Upper body,@WPG,2-5,18,13,Pittsburgh,2025/26
+F,Brindley,13,F,Concussion,@SJS,2-3 (OT),12,13,Colorado,2025/26
+F,Eklund,13,F,Lower body,DET,2-3 (SO),21,13,San Jose,2025/26
+F,Faksa,13,F,Undisclosed,EDM,4-3 (SO),24,13,Dallas,2025/26
+F,Kulich,13,F,Blood clots,UTA,1-2 (OT),11,13,Buffalo,2025/26
+D,Mateychuk,13,D,Undisclosed,@CGY,1-5,20,13,Columbus,2025/26
+D,Tanev,13,D,Upper body,PIT,4-3,55,13,Toronto,2025/26
+F,Zucker,13,F,Illness,UTA,1-2 (OT),58,13,Buffalo,2025/26
+D,Benoît,14,D,Illness,UTA,5-3,16,14,Toronto,2025/26
+D,Chatfield,14,D,Concussion,BUF,6-3,37,14,Carolina,2025/26
+D,Crozier,14,D,Undisclosed,@VGK,6-3,9,14,Tampa Bay,2025/26
+G,Daccord,14,G,Upper body,@STL,4-3 (OT),61,14,Seattle,2025/26
+F,E. Lindholm,14,F,Lower body,CAR,2-1,95,14,Boston,2025/26
+F,Misa,14,F,Lower body,@SEA,6-1,52,14,San Jose,2025/26
+F,Smith,14,F,Upper body,VAN,4-5 (OT),12,14,Nashville,2025/26
+D,Vaakanainen,14,D,Lower body,CAR,0-3,19,14,NY Rangers,2025/26
+F,Acciari,15,F,Upper body,WSH,5-3,24,15,Pittsburgh,2025/26
+F,C. Sillinger,15,F,Illness,@EDM,4-5 (OT),27,15,Columbus,2025/26
+F,Cirelli,15,F,Lower body,WSH,3-2,76,15,Tampa Bay,2025/26
+D,Hamilton,15,D,Lower body,PIT,2-1 (SO),110,15,New Jersey,2025/26
+F,Hållander,15,F,Blood clots,WSH,5-3,9,15,Pittsburgh,2025/26
+F,James,15,F,Facial,WSH,3-2,12,15,Tampa Bay,2025/26
+G,Jarry,15,G,Lower body,WSH,5-3,66,15,Pittsburgh,2025/26
+F,Karlsson,15,F,Lower body,FLA,2-3,72,15,Vegas,2025/26
+F,Koepke,15,F,Undisclosed,@ANA,1-4,12,15,Winnipeg,2025/26
+F,Wood,15,F,Illness,@EDM,4-5 (OT),30,15,Columbus,2025/26
+D,Bahl,16,D,Undisclosed,CHI,0-4,65,16,Calgary,2025/26
+G,Demko,16,G,Undisclosed,CBJ,4-3,61,16,Vancouver,2025/26
+D,Hedman,16,D,Undisclosed,NYR,3-7,98,16,Tampa Bay,2025/26
+F,Holmberg,16,F,Undisclosed,NYR,3-7,19,16,Tampa Bay,2025/26
+F,Laughton,16,F,Upper body,CAR,4-5,18,16,Toronto,2025/26
+D,Legault,16,D,Hand,WSH,1-4,11,16,Carolina,2025/26
+F,Lycksell,16,F,Concussion,UTA,4-2,9,16,Ottawa,2025/26
+D,McDonagh,16,D,Undisclosed,NYR,3-7,82,16,Tampa Bay,2025/26
+F,Nazar,16,F,Abdominal,@DET,5-1,19,16,Chicago,2025/26
+G,Andersen,17,G,Concussion,VAN,4-3 (OT),43,17,Carolina,2025/26
+F,Beecher,17,F,Upper body,@TOR,5-3,11,17,Boston,2025/26
+F,Burakovsky,17,F,Illness,NJD,3-4 (OT),67,17,Chicago,2025/26
+D,Fleury,17,D,Concussion,@SEA,3-5,12,17,Winnipeg,2025/26
+F,Hagel,17,F,Upper body,@FLA,3-1,79,17,Tampa Bay,2025/26
+F,Jenner,17,F,Upper body,EDM,5-4,46,17,Columbus,2025/26
+F,L'Heureux,17,F,Lower body,DAL,4-5,11,17,Nashville,2025/26
+D,Middleton,17,D,Illness,CGY,2-0,53,17,Minnesota,2025/26
+F,Mittelstadt,17,F,Lower body,@TOR,5-3,70,17,Boston,2025/26
+F,Nugent-Hopkins,17,F,Undisclosed,CBJ,5-4 (OT),63,17,Edmonton,2025/26
+D,Parekh,17,D,Upper body,@MIN,0-2,24,17,Calgary,2025/26
+F,Poehling,17,F,Upper body,@DET,3-6,23,17,Anaheim,2025/26
+F,Bertuzzi,18,F,Undisclosed,TOR,3-2,67,18,Chicago,2025/26
+D,Carlson,18,D,Upper body,NJD,2-3 (SO),98,18,Washington,2025/26
+D,Chabot,18,D,Upper body,BOS,5-3,98,18,Ottawa,2025/26
+F,Erne,18,F,Lower body,@MTL,7-0,9,18,Dallas,2025/26
+F,Glass,18,F,Upper body,@WSH,3-2 (SO),30,18,New Jersey,2025/26
+F,Granlund,18,F,Lower body,@MIN,0-2,85,18,Anaheim,2025/26
+F,J. Hughes,18,F,Finger,@WSH,3-2 (SO),98,18,New Jersey,2025/26
+F,Kakko,18,F,Lower body,SJS,4-1,55,18,Seattle,2025/26
+F,Kotkaniemi,18,F,Ankle,EDM,3-4 (OT),59,18,Carolina,2025/26
+D,Lauzon,18,D,Undisclosed,@MIN,2-3 (OT),24,18,Vegas,2025/26
+F,MacEwen,18,F,Knee,@WSH,3-2 (SO),9,18,New Jersey,2025/26
+F,Matthews,18,F,Lower body,LAK,3-4 (OT),162,18,Toronto,2025/26
+F,Newhook,18,F,Ankle,BOS,2-3,35,18,Montreal,2025/26
+F,Nichushkin,18,F,Lower body,BUF,6-3,75,18,Colorado,2025/26
+G,Stolarz,18,G,Upper body,LAK,3-4 (OT),30,18,Toronto,2025/26
+D,Borgen,19,D,Upper body,@CBJ,2-1 (SO),50,19,NY Rangers,2025/26
+D,Carlo,19,D,Foot,@CHI,2-3,43,19,Toronto,2025/26
+D,Crozier,19,D,Undisclosed,NJD,5-1,9,19,Tampa Bay,2025/26
+F,Dach,19,F,Foot,@CBJ,3-4 (SO),41,19,Montreal,2025/26
+G,Demko,19,G,Lower body,@CAR,3-4 (OT),61,19,Vancouver,2025/26
+F,Foligno,19,F,Hand,CGY,5-2,55,19,Chicago,2025/26
+D,Harley,19,D,Lower body,PHI,5-1,49,19,Dallas,2025/26
+D,Hughes,19,D,Upper body,@CAR,3-4 (OT),96,19,Vancouver,2025/26
+D,Kesselring,19,D,Lower body,EDM,5-1,17,19,Buffalo,2025/26
+F,Koivunen,19,F,Lower body,NSH,4-0,11,19,Pittsburgh,2025/26
+F,Luostarinen,19,F,Lower body,VAN,8-5,37,19,Florida,2025/26
+G,Murray,19,G,Lower body,@DET,2-4,12,19,Seattle,2025/26
+F,Rossi,19,F,Lower body,ANA,2-0,61,19,Minnesota,2025/26
+F,Skinner,19,F,Lower body,@SEA,1-4,37,19,San Jose,2025/26
+F,Tarasenko,19,F,Lower body,ANA,2-0,58,19,Minnesota,2025/26
+D,Černák,19,D,Lower body,NJD,5-1,63,19,Tampa Bay,2025/26
+D,Doughty,20,D,Lower body,@WSH,1-2,134,20,Los Angeles,2025/26
+F,Dowd,20,F,Upper body,EDM,7-4,37,20,Washington,2025/26
+F,Greig,20,F,Undisclosed,@ANA,3-2,40,20,Ottawa,2025/26
+G,Hellebuyck,20,G,Knee,CAR,3-4,104,20,Winnipeg,2025/26
+F,Holmström,20,F,Illness,@DAL,3-2,44,20,NY Islanders,2025/26
+F,Knies,20,F,Lower body,STL,3-2 (OT),95,20,Toronto,2025/26
+D,Lyubushkin,20,D,Undisclosed,NYI,2-3,40,20,Dallas,2025/26
+F,Roy,20,F,Upper body,STL,3-2 (OT),37,20,Toronto,2025/26
+F,Schwindt,20,F,Arm,NJD,1-0,10,20,Florida,2025/26
+F,Arvidsson,21,F,Lower body,CAR,1-3,49,21,Boston,2025/26
+F,Brindley,21,F,Lower body,@NSH,3-0,12,21,Colorado,2025/26
+F,Burakovsky,21,F,Undisclosed,@BUF,3-9,67,21,Chicago,2025/26
+D,Ekblad,21,D,Illness,EDM,3-6,74,21,Florida,2025/26
+F,Garland,21,F,Undisclosed,@FLA,5-8,60,21,Vancouver,2025/26
+F,Hartman,21,F,Lower body,CAR,4-3 (SO),49,21,Minnesota,2025/26
+F,Honzek,21,F,Upper body,@CHI,2-5,17,21,Calgary,2025/26
+D,Matinpalo,21,D,Undisclosed,@SJS,3-2,11,21,Ottawa,2025/26
+D,McAvoy,21,D,Facial,CAR,1-3,116,21,Boston,2025/26
+D,Romanov,21,D,Shoulder,@DET,5-0,76,21,NY Islanders,2025/26
+F,Söderblom,21,F,Undisclosed,NYI,0-5,14,21,Detroit,2025/26
+D,Borgen,22,D,Upper body,@COL,3-6,50,22,NY Rangers,2025/26
+D,Chabot,22,D,Upper body,@LAK,1-2,98,22,Ottawa,2025/26
+D,Edvinsson,22,D,Illness,CBJ,4-3 (OT),21,22,Detroit,2025/26
+F,Lazar,22,F,Upper body,@WSH,4-7,9,22,Edmonton,2025/26
+F,Philp,22,F,Upper body,@WSH,4-7,9,22,Edmonton,2025/26
+D,Pionk,22,D,Lower body,@WSH,3-4,85,22,Winnipeg,2025/26
+F,Point,22,F,Undisclosed,PHI,3-0,116,22,Tampa Bay,2025/26
+F,Rasmussen,22,F,Undisclosed,CBJ,4-3 (OT),39,22,Detroit,2025/26
+F,Staal,22,F,Illness,@BUF,1-4,35,22,Carolina,2025/26
+D,Černák,22,D,Hand,PHI,3-0,63,22,Tampa Bay,2025/26
+F,Dadonov,23,F,Wrist,STL,3-2 (OT),40,23,New Jersey,2025/26
+G,Dostál,23,G,Upper body,VAN,4-5,79,23,Anaheim,2025/26
+F,Hinostroza,23,F,Lower body,@WPG,3-0,9,23,Minnesota,2025/26
+G,Kochetkov,23,G,Lower body,NYR,2-4,24,23,Carolina,2025/26
+F,Marchenko,23,F,Knee,@WSH,1-5,47,23,Columbus,2025/26
+F,Miller,23,F,Upper body,@UTA,2-3,98,23,NY Rangers,2025/26
+F,Pageau,23,F,Upper body,SEA,1-0 (SO),61,23,NY Islanders,2025/26
+F,Foegele,24,F,Upper body,@ANA,4-5 (SO),43,24,Los Angeles,2025/26
+F,Marchessault,24,F,Lower body,@CHI,4-3,67,24,Nashville,2025/26
+D,Määttä,24,D,Upper body,MTL,3-4,43,24,Utah,2025/26
+F,Nylander,24,F,Illness,@WSH,2-4,140,24,Toronto,2025/26
+F,Olivier,24,F,Upper body,TOR,1-2 (OT),37,24,Columbus,2025/26
+G,Quick,24,G,Lower body,STL,3-2,23,24,NY Rangers,2025/26
+F,Schwartz,24,F,Lower body,EDM,0-4,67,24,Seattle,2025/26
+D,Struble,24,D,Upper body,@COL,2-7,17,24,Montreal,2025/26
+D,Walman,24,D,Lower body,@FLA,6-3,41,24,Edmonton,2025/26
+F,Hayton,25,F,Illness,@DAL,3-4,32,25,Utah,2025/26
+F,M. Foligno,25,F,Lower body,COL,3-2 (SO),49,25,Minnesota,2025/26
+F,Marchment,25,F,Undisclosed,@EDM,4-9,55,25,Seattle,2025/26
+D,Barron,26,D,Lower body,CGY,5-1,14,26,Nashville,2025/26
+F,Blümel,26,F,Lower body,NYR,2-6,11,26,Boston,2025/26
+D,Desharnais,26,D,Upper body,@VGK,3-4,24,26,San Jose,2025/26
+F,Foerster,26,F,Arm,BUF,5-2,46,26,Philadelphia,2025/26
+F,Garland,26,F,Upper body,@LAK,1-2 (OT),60,26,Vancouver,2025/26
+F,Koppanen,26,F,Illness,@TBL,4-3,9,26,Pittsburgh,2025/26
+F,McCarron,26,F,Lower body,CGY,5-1,11,26,Nashville,2025/26
+D,Miller,26,D,Illness,TOR,1-5,91,26,Carolina,2025/26
+G,Mrázek,26,G,Lower body,@STL,4-1,52,26,Anaheim,2025/26
+F,Palmieri,26,F,Knee,WSH,1-4,58,26,NY Islanders,2025/26
+F,Pastrňák,26,F,Undisclosed,NYR,2-6,137,26,Boston,2025/26
+D,Perbix,26,D,Upper body,CGY,5-1,34,26,Nashville,2025/26
+F,Roslovic,26,F,Undisclosed,@SEA,4-0,18,26,Edmonton,2025/26
+F,Suter,26,F,Lower body,UTA,1-0,50,26,St. Louis,2025/26
+F,Zacha,26,F,Undisclosed,NYR,2-6,58,26,Boston,2025/26
+F,Appleton,27,F,Lower body,BOS,5-4,35,27,Detroit,2025/26
+D,Bichsel,27,D,Lower body,@NYR,2-3 (OT),17,27,Dallas,2025/26
+F,Catton,27,F,Upper body,MIN,1-4,24,27,Seattle,2025/26
+F,Eller,27,F,Undisclosed,NYR,2-4,27,27,Ottawa,2025/26
+G,Hart,27,G,Lower body,@NJD,3-0,24,27,Vegas,2025/26
+D,Jokiharju,27,D,Undisclosed,DET,3-2 (SO),37,27,Boston,2025/26
+F,Malkin,27,F,Upper body,@DAL,2-3 (SO),74,27,Pittsburgh,2025/26
+F,Sissons,27,F,Illness,@NJD,3-0,17,27,Vegas,2025/26
+F,Snuggerud,27,F,Wrist,ANA,1-4,19,27,St. Louis,2025/26
+F,Toropchenko,27,F,Leg,ANA,1-4,21,27,St. Louis,2025/26
+G,Vasilevskiy,27,G,Undisclosed,PIT,3-4,116,27,Tampa Bay,2025/26
+G,Wedgewood,27,G,Back,@NYI,3-6,18,27,Colorado,2025/26
+D,York,27,D,Upper body,COL,2-3,63,27,Philadelphia,2025/26
+F,Yurov,27,F,Undisclosed,@EDM,1-0,36,27,Minnesota,2025/26
+D,Zub,27,D,Lower body,NYR,2-4,56,27,Ottawa,2025/26
+D,Carlson,28,D,Upper body,@SJS,7-1,98,28,Washington,2025/26
+F,Drouin,28,F,Back,COL,6-3,49,28,NY Islanders,2025/26
+F,Edström,28,F,Lower body,DAL,3-2 (OT),12,28,NY Rangers,2025/26
+D,Fox,28,D,Upper body,DAL,3-2 (OT),116,28,NY Rangers,2025/26
+D,Joseph,28,D,Illness,UTA,1-4,9,28,Vancouver,2025/26
+F,Kane,28,F,Arm,UTA,1-4,63,28,Vancouver,2025/26
+F,Kartye,28,F,Illness,LAK,3-2 (OT),15,28,Seattle,2025/26
+F,Kozak,28,F,Undisclosed,@WPG,1-4,9,28,Buffalo,2025/26
+F,Kucherov,28,F,Undisclosed,NYI,0-2,116,28,Tampa Bay,2025/26
+F,Lizotte,28,F,Upper body,ANA,3-4 (SO),23,28,Pittsburgh,2025/26
+G,Montembeault,28,G,Illness,STL,3-4,38,28,Montreal,2025/26
+F,Pinto,28,F,Lower body,STL,1-2,46,28,Ottawa,2025/26
+F,Seguin,28,F,Knee,@NJD,3-0,120,28,Dallas,2025/26
+F,Sourdif,28,F,Lower body,@SJS,7-1,10,28,Washington,2025/26
+F,Teräväinen,28,F,Mouth,@LAK,0-6,66,28,Chicago,2025/26
+F,Walker,28,F,Upper body,@BOS,2-5,9,28,St. Louis,2025/26
+F,Wiesblatt,28,F,Upper body,@CAR,3-6,9,28,Nashville,2025/26
+G,Woll,28,G,Lower body,MTL,1-2 (SO),45,28,Toronto,2025/26
+D,Callahan,29,D,Lower body,STL,5-2,9,29,Boston,2025/26
+F,Clattenburg,29,F,Eye,WPG,6-2,10,29,Edmonton,2025/26
+F,Douglas,29,F,Undisclosed,@TOR,0-2,9,29,Tampa Bay,2025/26
+F,E. Pettersson (F),29,F,Upper body,MIN,4-2,141,29,Vancouver,2025/26
+F,James,29,F,Undisclosed,@TOR,0-2,12,29,Tampa Bay,2025/26
+F,Kotkaniemi,29,F,Lower body,CBJ,4-1,59,29,Carolina,2025/26
+G,Lindgren,29,G,Upper body,@ANA,3-4 (SO),37,29,Washington,2025/26
+F,McCann,29,F,Lower body,@UTA,3-5,61,29,Seattle,2025/26
+F,Cooley,30,F,Lower body,@CGY,0-2,54,30,Utah,2025/26
+F,Kyrou,30,F,Lower body,@MTL,4-3,99,30,St. Louis,2025/26
+F,Leonard,30,F,Shoulder,CBJ,2-0,27,30,Washington,2025/26
+D,Lyubushkin,30,D,Lower body,PIT,3-2 (SO),40,30,Dallas,2025/26
+F,Marchment,30,F,Illness,BUF,1-3,55,30,Seattle,2025/26
+D,Mermis,30,D,Lower body,SJS,2-3 (OT),10,30,Toronto,2025/26
+F,Norris,30,F,Illness,@EDM,4-3 (OT),97,30,Buffalo,2025/26
+F,Zucker,30,F,Lower body,@EDM,4-3 (OT),58,30,Buffalo,2025/26
+G,Askarov,31,G,Illness,@PHI,1-4,24,31,San Jose,2025/26
+D,Bean,31,D,Undisclosed,BUF,7-4,21,31,Calgary,2025/26
+F,Danault,31,F,Illness,CGY,1-2 (OT),67,31,Los Angeles,2025/26
+F,Eller,31,F,Foot,@MIN,2-3,27,31,Ottawa,2025/26
+G,Ellis,31,G,Concussion,@VAN,3-2,9,31,Buffalo,2025/26
+D,Hedman,31,D,Elbow,@NJD,8-4,98,31,Tampa Bay,2025/26
+F,Joshua,31,F,Illness,EDM,3-6,40,31,Toronto,2025/26
+D,Middleton,31,D,Upper body,DAL,5-2,53,31,Minnesota,2025/26
+F,Tuch,31,F,Illness,@VAN,3-2,58,31,Buffalo,2025/26
+F,Zuccarello,31,F,Upper body,DAL,5-2,50,31,Minnesota,2025/26
+F,Bedard,32,F,Shoulder,DET,0-4,54,32,Chicago,2025/26
+F,Bjugstad,32,F,Upper body,@NSH,2-7,21,32,St. Louis,2025/26
+D,Brodin,32,D,Lower body,OTT,3-2,73,32,Minnesota,2025/26
+F,Byfield,32,F,Illness,@DAL,1-4,76,32,Los Angeles,2025/26
+F,Eichel,32,F,Illness,NJD,1-2 (SO),122,32,Vegas,2025/26
+F,Gritsyuk,32,F,Upper body,ANA,4-1,17,32,New Jersey,2025/26
+D,Lundkvist,32,D,Illness,@MIN,2-5,15,32,Dallas,2025/26
+F,Maccelli,32,F,Illness,CHI,3-2,42,32,Toronto,2025/26
+D,Montour,32,D,Hand,@CGY,2-4,87,32,Seattle,2025/26
+D,Nemec,32,D,Lower body,ANA,4-1,51,32,New Jersey,2025/26
+D,Theodore,32,D,Upper body,NJD,1-2 (SO),91,32,Vegas,2025/26
+F,Arvidsson,33,F,Lower body,@MIN,2-6,49,33,Boston,2025/26
+D,Aspirot,33,D,Upper body,@MIN,2-6,9,33,Boston,2025/26
+F,Eichel,33,F,Lower body,@CGY,3-6,122,33,Vegas,2025/26
+F,Horvat,33,F,Lower body,TBL,3-2 (SO),104,33,NY Islanders,2025/26
+G,Kuemper,33,G,Upper body,@FLA,2-3,64,33,Los Angeles,2025/26
+D,Lilleberg,33,D,Undisclosed,FLA,2-5,10,33,Tampa Bay,2025/26
+D,Matheson,33,D,Upper body,PHI,1-4,59,33,Montreal,2025/26
+D,Mukhamadullin,33,D,Upper body,@PIT,6-5 (OT),12,33,San Jose,2025/26
+D,Bogosian,34,D,Lower body,WSH,5-0,15,34,Minnesota,2025/26
+F,Dvorak,34,F,Lower body,@NYR,4-5 (SO),66,34,Philadelphia,2025/26
+F,Gaudette,34,F,Lower body,CGY,6-3,24,34,San Jose,2025/26
+F,Hagel,34,F,Upper body,LAK,1-2,79,34,Tampa Bay,2025/26
+F,Holloway,34,F,Ankle,NSH,2-5,28,34,St. Louis,2025/26
+F,Johansson,34,F,Lower body,WSH,5-0,10,34,Minnesota,2025/26
+F,Kane,34,F,Upper body,NYI,3-2,85,34,Detroit,2025/26
+F,Kozak,34,F,Upper body,NYI,3-2 (SO),9,34,Buffalo,2025/26
+F,Kucherov,34,F,Illness,LAK,1-2,116,34,Tampa Bay,2025/26
+F,Kurashev,34,F,Upper body,CGY,6-3,15,34,San Jose,2025/26
+F,Lapierre,34,F,Illness,TOR,4-0,10,34,Washington,2025/26
+F,Marchessault,34,F,Lower body,TOR,5-3,67,34,Nashville,2025/26
+F,Martinook,34,F,Lower body,@FLA,3-4 (SO),37,34,Carolina,2025/26
+F,Smith,34,F,Upper body,CGY,6-3,51,34,San Jose,2025/26
+D,Timmins,34,D,Leg,NYI,3-2 (SO),27,34,Buffalo,2025/26
+G,Vladař,34,G,Upper body,@NYR,4-5 (SO),41,34,Philadelphia,2025/26
+F,Danault,35,F,Illness,PIT,4-0,67,35,Montreal,2025/26
+D,Dunn,35,D,Upper body,@LAK,3-2,90,35,Seattle,2025/26
+D,Hunt,35,D,Undisclosed,@CBJ,5-2,9,35,Minnesota,2025/26
+F,Jarvis,35,F,Ribs,@TBL,4-6,96,35,Carolina,2025/26
+D,Kleven,35,D,Lower body,@BOS,6-2,20,35,Ottawa,2025/26
+D,Regula,35,D,Illness,@BOS,3-1,9,35,Edmonton,2025/26
+F,Samoskevich,35,F,Lower body,STL,2-6,9,35,Florida,2025/26
+F,Wood,35,F,Lower body,@ANA,3-4,30,35,Columbus,2025/26
+F,Carrier,36,F,Illness,FLA,2-5,24,36,Carolina,2025/26
+F,Evans,36,F,Lower body,@PIT,3-4 (SO),35,36,Montreal,2025/26
+D,Jaccob Slavin,36,D,Upper body,FLA,2-5,79,36,Carolina,2025/26
+G,Jarry,36,G,Lower body,@MIN,2-5,66,36,Edmonton,2025/26
+D,Liljegren,36,D,Upper body,SEA,2-4,37,36,San Jose,2025/26
+F,Nazar,36,F,Upper body,PHI,1-3,19,36,Chicago,2025/26
+F,Panarin,36,F,Illness,@STL,2-1 (OT),142,36,NY Rangers,2025/26
+D,Werenski,36,D,Lower body,@LAK,3-1,117,36,Columbus,2025/26
+F,Carlsson,37,F,Lower body,SEA,1-3,51,37,Anaheim,2025/26
+F,Lundeström,37,F,Lower body,NYI,4-2,16,37,Columbus,2025/26
+D,McDonagh,37,D,Lower body,@FLA,4-2,82,37,Tampa Bay,2025/26
+D,Miller,37,D,Lower body,DET,5-2,91,37,Carolina,2025/26
+D,Sandin,37,D,Upper body,NYR,3-7,56,37,Washington,2025/26
+G,Sorokin,37,G,Lower body,NJD,2-1,101,37,NY Islanders,2025/26
+F,Wilson,37,F,Illness,NYR,3-7,79,37,Washington,2025/26
+D,Gostisbehere,38,D,Groin,NYR,3-2 (OT),39,38,Carolina,2025/26
+G,Kochetkov,38,G,Hip,NYR,3-2 (OT),24,38,Carolina,2025/26
+F,Miller,38,F,Upper body,@NSH,1-2,98,38,NY Rangers,2025/26
+F,Monahan,38,F,Undisclosed,@OTT,4-1,67,38,Columbus,2025/26
+F,Nylander,38,F,Lower body,@DET,2-3 (OT),140,38,Toronto,2025/26
+F,Perreault,38,F,Illness,@NSH,1-2,15,38,NY Rangers,2025/26
+F,Rempe,38,F,Illness,@NSH,1-2,12,38,NY Rangers,2025/26
+D,Gudas,39,D,Illness,SJS,4-5,49,39,Anaheim,2025/26
+F,Jeannot,39,F,Undisclosed,@BUF,1-4,41,39,Boston,2025/26
+F,Johnston,39,F,Illness,SJS,4-5,13,39,Anaheim,2025/26
+F,Joshua,39,F,Kidney,NJD,4-0,40,39,Toronto,2025/26
+F,Kiviranta,39,F,Lower body,STL,6-1,15,39,Colorado,2025/26
+G,Lyon,39,G,Lower body,@DAL,4-1,18,39,Buffalo,2025/26
+D,Lyubushkin,39,D,Illness,CHI,3-4 (SO),40,39,Dallas,2025/26
+F,Matthews,39,F,Lower body,NJD,4-0,162,39,Toronto,2025/26
+D,McNabb,39,D,Upper body,@STL,3-4,45,39,Vegas,2025/26
+F,Moore,39,F,Illness,TBL,3-5,51,39,Los Angeles,2025/26
+F,Sabourin,39,F,Undisclosed,@ANA,4-3 (OT),9,39,Tampa Bay,2025/26
+D,Smith,39,D,Knee,NJD,2-3,10,39,Columbus,2025/26
+D,Tanev,39,D,Groin,NJD,4-0,55,39,Toronto,2025/26
+F,Vatrano,39,F,Shoulder,SJS,4-5,73,39,Anaheim,2025/26
+G,Vejmelka,39,G,Upper body,@COL,0-1,58,39,Utah,2025/26
+G,Blackwood,40,G,Lower body,@CAR,5-3,64,40,Colorado,2025/26
+F,Brindley,40,F,Lower body,@CAR,5-3,12,40,Colorado,2025/26
+F,Garland,40,F,Undisclosed,SEA,3-4 (SO),60,40,Vancouver,2025/26
+F,Gaudette,40,F,Lower body,MIN,4-3 (SO),24,40,San Jose,2025/26
+D,Kesselring,40,D,Ankle,@CBJ,1-5,17,40,Buffalo,2025/26
+D,Matheson,40,D,Upper body,@CAR,7-5,59,40,Montreal,2025/26
+F,Rossi,40,F,Lower body,SEA,3-4 (SO),61,40,Vancouver,2025/26
+F,Suter,40,F,Ankle,BUF,2-4,50,40,St. Louis,2025/26
+F,Wood,40,F,Leg,BUF,5-1,30,40,Columbus,2025/26
+F,Anderson,41,F,Upper body,@STL,0-2,67,41,Montreal,2025/26
+D,Jones,41,D,Upper body,COL,2-1,85,41,Florida,2025/26
+D,Klingberg,41,D,Lower body,TBL,3-7,49,41,San Jose,2025/26
+F,Michkov,41,F,Foot,ANA,5-2,52,41,Philadelphia,2025/26
+D,Toews,41,D,Upper body,@FLA,1-2,88,41,Colorado,2025/26
+F,Tolvanen,41,F,Illness,BOS,7-4,42,41,Seattle,2025/26
+F,A. Protas,42,F,Lower body,CHI,2-3 (SO),41,42,Washington,2025/26
+F,Armia,42,F,Upper body,SJS,3-4 (OT),30,42,Los Angeles,2025/26
+F,Brink,42,F,Upper body,TOR,1-2 (OT),18,42,Philadelphia,2025/26
+G,Cooley,42,G,Illness,SEA,1-5,9,42,Calgary,2025/26
+D,Drysdale,42,D,Upper body,TOR,1-2 (OT),28,42,Philadelphia,2025/26
+F,Eberle,42,F,Upper body,MIN,2-3 (OT),58,42,Seattle,2025/26
+D,Fleury,42,D,Upper body,EDM,3-4,12,42,Winnipeg,2025/26
+F,Horvat,42,F,Lower body,TOR,4-3 (OT),104,42,NY Islanders,2025/26
+F,Kopitar,42,F,Lower body,SJS,3-4 (OT),85,42,Los Angeles,2025/26
+F,Landeskog,42,F,Upper body,@TBL,2-4,85,42,Colorado,2025/26
+F,Marchment,42,F,Upper body,@SJS,2-5,55,42,Columbus,2025/26
+D,McCabe,42,D,Lower body,FLA,4-1,57,42,Toronto,2025/26
+F,McGroarty,42,F,Concussion,NJD,4-1,18,42,Pittsburgh,2025/26
+F,Moore,42,F,Upper body,SJS,3-4 (OT),51,42,Los Angeles,2025/26
+D,Mukhamadullin,42,D,Upper body,CBJ,5-2,12,42,San Jose,2025/26
+F,Barron,43,F,Upper body,LAK,5-1,23,43,Winnipeg,2025/26
+F,Beecher,43,F,Upper body,@MTL,1-4,11,43,Calgary,2025/26
+F,Benn,43,F,Upper body,@CAR,3-6,49,43,Dallas,2025/26
+F,Dellandrea,43,F,Lower body,@LAK,4-3 (OT),16,43,San Jose,2025/26
+D,H. Lindholm,43,D,Undisclosed,@SEA,4-7,79,43,Boston,2025/26
+G,Hart,43,G,Lower body,STL,4-2,24,43,Vegas,2025/26
+F,Konecny,43,F,Knee,TBL,2-7,107,43,Philadelphia,2025/26
+F,Laba,43,F,Upper body,@FLA,5-1,12,43,NY Rangers,2025/26
+F,Marchand,43,F,Undisclosed,@MTL,2-6,64,43,Florida,2025/26
+G,Mrázek,43,G,Hip,@PHI,2-5,52,43,Anaheim,2025/26
+D,Pionk,43,D,Foot,LAK,5-1,85,43,Winnipeg,2025/26
+F,Rust,43,F,Lower body,CGY,1-2,63,43,Pittsburgh,2025/26
+F,Saad,43,F,Undisclosed,STL,4-2,24,43,Vegas,2025/26
+F,Sheary,43,F,Lower body,@FLA,5-1,9,43,NY Rangers,2025/26
+F,Wilson,43,F,Lower body,ANA,7-4,79,43,Washington,2025/26
+D,Bogosian,44,D,Lower body,@LAK,2-4,15,44,Minnesota,2025/26
+D,Crevier,44,D,Illness,WSH,1-5,11,44,Chicago,2025/26
+"D ""Retired""",Ellis,44,"D ""Retired""",Back,WSH,1-5,76,44,Chicago,2025/26
+F,Erne,44,F,Undisclosed,@WSH,4-1,9,44,Dallas,2025/26
+F,Henrique,44,F,Undisclosed,@WPG,4-3,37,44,Edmonton,2025/26
+F,Howden,44,F,Lower body,@SJS,7-2,30,44,Vegas,2025/26
+F,Joseph,44,F,Elbow,@CHI,3-7,36,44,St. Louis,2025/26
+G,Knight,44,G,Illness,WSH,1-5,55,44,Chicago,2025/26
+F,Mikheyev,44,F,Illness,WSH,1-5,49,44,Chicago,2025/26
+D,Parekh,44,D,Upper body,@BOS,1-4,24,44,Calgary,2025/26
+F,Philp,44,F,Concussion,ANA,5-2,9,44,Carolina,2025/26
+F,Stenlund,44,F,Illness,OTT,3-1,24,44,Utah,2025/26
+G,Söderblom,44,G,Illness,WSH,1-5,34,44,Chicago,2025/26
+F,Terry,44,F,Upper body,@CAR,2-5,85,44,Anaheim,2025/26
+F,Coleman,45,F,Upper body,@PIT,2-1,60,45,Calgary,2025/26
+G,Demko,45,G,Hip,@MTL,3-6,61,45,Vancouver,2025/26
+F,Dunne,45,F,Undisclosed,PHI,5-2,9,45,Buffalo,2025/26
+D,Fox,45,D,Lower body,BUF,2-5,116,45,NY Rangers,2025/26
+D,Karlsson,45,D,Lower body,TBL,1-2 (SO),122,45,Pittsburgh,2025/26
+D,Miller,45,D,Knee,NYI,5-4,18,45,Winnipeg,2025/26
+F,Noesen,45,F,Knee,@WPG,3-4,34,45,New Jersey,2025/26
+F,Point,45,F,Lower body,@PIT,2-1 (SO),116,45,Tampa Bay,2025/26
+D,Ristolainen,45,D,Upper body,@BUF,2-5,62,45,Philadelphia,2025/26
+F,Sherwood,45,F,Upper body,@MTL,3-6,18,45,Vancouver,2025/26
+G,Shesterkin,45,G,Lower body,BUF,2-5,140,45,NY Rangers,2025/26
+F,Bedard,46,F,Illness,EDM,1-4,54,46,Chicago,2025/26
+F,Carlsson,46,F,Thigh,DAL,3-1,51,46,Anaheim,2025/26
+F,Carrier,46,F,Lower body,@DET,3-4 (OT),24,46,Carolina,2025/26
+D,Chychrun,46,D,Illness,@NSH,2-3,110,46,Washington,2025/26
+F,Eriksson Ek,46,F,Lower body,NYI,3-4 (OT),64,46,Minnesota,2025/26
+F,Gauthier,46,F,Illness,DAL,3-1,23,46,Anaheim,2025/26
+D,Hague,46,D,Illness,EDM,4-3 (OT),67,46,Nashville,2025/26
+F,Kerfoot,46,F,Upper body,CBJ,2-3 (OT),37,46,Utah,2025/26
+D,Mateychuk,46,D,Upper body,CGY,5-3,20,46,Columbus,2025/26
+F,Norris,46,F,Ribs,MTL,5-3,97,46,Buffalo,2025/26
+D,Pionk,46,D,Lower body,@MIN,6-2,85,46,Winnipeg,2025/26
+F,Robertson,46,F,Lower body,@UTA,1-6,22,46,Toronto,2025/26
+D,Severson,46,D,Illness,CGY,5-3,76,46,Columbus,2025/26
+G,Vladař,46,G,Lower body,@PIT,3-6,41,46,Philadelphia,2025/26
+D,Benoît,47,D,Upper body,@VGK,5-6 (OT),16,47,Toronto,2025/26
+D,Broberg,47,D,Concussion,CAR,3-0,56,47,St. Louis,2025/26
+F,Kreider,47,F,Illness,@LAK,3-2 (SO),79,47,Anaheim,2025/26
+F,Lafferty,47,F,Illness,CGY,1-3,24,47,Chicago,2025/26
+F,Nichushkin,47,F,Upper body,WSH,5-2,75,47,Colorado,2025/26
+F,Sissons,47,F,Upper body,NSH,7-2,17,47,Vegas,2025/26
+F,Sourdif,47,F,Upper body,MTL,3-2 (OT),10,47,Washington,2025/26
+F,Teräväinen,47,F,Upper body,CGY,1-3,66,47,Chicago,2025/26
+F,Thomas,47,F,Leg,CAR,3-0,99,47,St. Louis,2025/26
+D,Wilsby,47,D,Lower body,@COL,7-3,9,47,Nashville,2025/26
+D,Brodin,48,D,Lower body,WPG,2-6,73,48,Minnesota,2025/26
+D,Gostisbehere,48,D,Lower body,FLA,9-1,39,48,Carolina,2025/26
+D,Kesselring,48,D,Ankle,@CAR,1-2,17,48,Buffalo,2025/26
+F,Nylander,48,F,Groin,@WPG,4-3 (OT),140,48,Toronto,2025/26
+F,Palát,48,F,Illness,CAR,1-4,73,48,New Jersey,2025/26
+D,Salomonsson,48,D,Illness,@CHI,0-2,11,48,Winnipeg,2025/26
+F,Sherwood,48,F,Upper body,@FLA,4-1,18,48,San Jose,2025/26
+F,Ābols,48,F,Ankle,@VGK,2-1,10,48,Philadelphia,2025/26
+F,Boldy,49,F,Undisclosed,@BUF,5-4 (OT),85,49,Minnesota,2025/26
+F,Burakovsky,49,F,Illness,WPG,2-0,67,49,Chicago,2025/26
+F,Colton,49,F,Lower body,PHI,3-7,49,49,Colorado,2025/26
+D,Doughty,49,D,Illness,NYR,4-3,134,49,Los Angeles,2025/26
+D,Fabbro,49,D,Lower body,OTT,1-4,50,49,Columbus,2025/26
+F,Johansson,49,F,Lower body,@BUF,5-4 (OT),10,49,Minnesota,2025/26
+D,Letang,49,D,Upper body,@CGY,4-1,74,49,Pittsburgh,2025/26
+D,Peeke,49,D,Lower body,@CHI,5-2,34,49,Boston,2025/26
+D,Crozier,50,D,Illness,@CBJ,5-8,9,50,Tampa Bay,2025/26
+F,Dickinson,50,F,Illness,@CAR,4-3 (SO),52,50,Chicago,2025/26
+F,Finley,50,F,Illness,@CBJ,5-8,9,50,Tampa Bay,2025/26
+D,Graves,50,D,Lower body,@EDM,6-2,55,50,Pittsburgh,2025/26
+F,Holloway,50,F,Ankle,@WPG,1-3,28,50,St. Louis,2025/26
+D,L. Hughes,50,D,Shoulder,@EDM,2-1,110,50,New Jersey,2025/26
+F,McTavish,50,F,Upper body,@COL,2-1 (SO),85,50,Anaheim,2025/26
+F,Meyers,50,F,Lower body,ANA,2-4,9,50,Seattle,2025/26
+F,Perron,50,F,Hernia,@NSH,3-5,49,50,Ottawa,2025/26
+F,Rantanen,50,F,Illness,BOS,6-2,146,50,Dallas,2025/26
+F,Reinhardt,50,F,Illness,@TOR,6-3,10,50,Vegas,2025/26
+F,Sundqvist,50,F,Ankle,@WPG,1-3,18,50,St. Louis,2025/26
+F,Texier,50,F,Lower body,MIN,4-3,12,50,Montreal,2025/26
+D,Bryson,51,D,Upper body,@NYI,5-0,11,51,Buffalo,2025/26
+F,Crouse,51,F,Illness,@NSH,5-2,52,51,Utah,2025/26
+D,D'Astous,51,D,Lower body,UTA,2-0,9,51,Tampa Bay,2025/26
+F,Greenway,51,F,Abdominal,@NYI,5-0,49,51,Buffalo,2025/26
+D,Hague,51,D,Lower body,UTA,2-5,67,51,Nashville,2025/26
+F,Kapanen,51,F,Undisclosed,NJD,1-2,16,51,Edmonton,2025/26
+D,Pulock,51,D,Upper body,BUF,0-5,75,51,NY Islanders,2025/26
+F,Robinson,51,F,Upper body,CHI,3-4 (SO),21,51,Carolina,2025/26
+F,Turcotte,51,F,Upper body,@DET,3-1,9,51,Los Angeles,2025/26
+D,Edvinsson,52,D,Lower body,@MIN,3-4 (OT),21,52,Detroit,2025/26
+F,Holmström,52,F,Illness,@PHI,4-0,44,52,NY Islanders,2025/26
+F,Ritchie,52,F,Lower body,@PHI,4-0,15,52,NY Islanders,2025/26
+D,St. Ivany,52,D,Hand,CHI,6-2,9,52,Pittsburgh,2025/26
+D,Willander,52,D,Illness,PIT,2-3,21,52,Vancouver,2025/26
+F,Boeser,53,F,Concussion,SJS,2-5,88,53,Vancouver,2025/26
+D,Buium,53,D,Facial,SJS,2-5,20,53,Vancouver,2025/26
+F,Guenther,53,F,Lower body,@FLA,4-3,87,53,Utah,2025/26
+F,Halliday,53,F,Upper body,COL,5-2,15,53,Ottawa,2025/26
+D,Letang,53,D,Foot,NYR,6-5,74,53,Pittsburgh,2025/26
+F,Lundell,53,F,Upper body,@STL,4-5,61,53,Florida,2025/26
+G,Luukkonen,53,G,Lower body,LAK,4-1,58,53,Buffalo,2025/26
+D,Lyubushkin,53,D,Lower body,@STL,4-3,40,53,Dallas,2025/26
+F,Nečas,53,F,Lower body,@DET,5-0,79,53,Colorado,2025/26
+D,Zadorov,53,D,Ankle,@NYR,3-4 (OT),61,53,Boston,2025/26
+D,Blankenburg,54,D,Illness,@NYI,4-3,9,54,Nashville,2025/26
+F,Catton,54,F,Upper body,@VGK,3-2,24,54,Seattle,2025/26
+F,Cirelli,54,F,Undisclosed,BUF,4-3 (OT),76,54,Tampa Bay,2025/26
+F,Cizikas,54,F,Illness,@NYR,2-1,30,54,NY Islanders,2025/26
+G,Ersson,54,G,Lower body,LAK,2-3 (OT),18,54,Philadelphia,2025/26
+F,Glass,54,F,Undisclosed,NSH,3-2 (OT),30,54,New Jersey,2025/26
+F,Höglander,54,F,Lower body,ANA,2-0,37,54,Vancouver,2025/26
+F,Marchand,54,F,Undisclosed,WPG,1-2,64,54,Florida,2025/26
+F,Paul,54,F,Lower body,BUF,4-3 (OT),38,54,Tampa Bay,2025/26
+D,Roy,54,D,Lower body,@SEA,1-5,70,54,Washington,2025/26
+D,Sandin,54,D,Lower body,@SEA,1-5,56,54,Washington,2025/26
+D,Anderson,55,D,Upper body,SEA,2-4,50,55,Los Angeles,2025/26
+F,Drouin,55,F,Illness,NSH,3-4,49,55,NY Islanders,2025/26
+F,E. Lindholm,55,F,Upper body,PHI,6-3,95,55,Boston,2025/26
+F,Foligno,55,F,Undisclosed,CBJ,2-4,55,55,Chicago,2025/26
+F,J. Hughes,55,F,Lower body,@OTT,1-4,98,55,New Jersey,2025/26
+F,Marchenko,55,F,Illness,@NJD,3-0,47,55,Columbus,2025/26
+F,Neighbours,55,F,Upper body,CBJ,3-5,46,55,St. Louis,2025/26
+F,Reaves,55,F,Upper body,@COL,2-4,16,55,San Jose,2025/26
+F,Texier,55,F,Lower body,@BUF,4-2,12,55,Montreal,2025/26
+G,Thompson,55,G,Upper body,@DET,4-3 (SO),71,55,Washington,2025/26
+F,Acciari,56,F,Illness,@BUF,5-2,24,56,Pittsburgh,2025/26
+F,Benson,56,F,Upper body,@TBL,3-4 (OT),20,56,Buffalo,2025/26
+D,Crozier,56,D,Abdominal,TOR,4-2,9,56,Tampa Bay,2025/26
+F,Huberdeau,56,F,Hip,EDM,4-3,128,56,Calgary,2025/26
+G,Lindgren,56,G,Lower body,CAR,4-3 (OT),37,56,Washington,2025/26
+F,McMichael,56,F,Upper body,CAR,4-3 (OT),26,56,Washington,2025/26
+F,Rakell,56,F,Lower body,@BUF,5-2,61,56,Pittsburgh,2025/26
+D,Rielly,56,D,Upper body,@CGY,4-2,91,56,Toronto,2025/26
+F,Røndbjerg,56,F,Lower body,VAN,5-2,9,56,Vegas,2025/26
+F,Schwartz,56,F,Lower body,@LAK,4-2,67,56,Seattle,2025/26
+F,Sturm,56,F,Illness,@EDM,7-3,24,56,Minnesota,2025/26
+F,Zacha,56,F,Concussion,@TBL,5-6 (SO),58,56,Boston,2025/26
+D,Björnfot,57,D,Undisclosed,@TBL,1-6,9,57,Florida,2025/26
+F,Chytil,57,F,Head,@VGK,2-5,54,57,Vancouver,2025/26
+F,Crosby,57,F,Lower body,NJD,4-1,106,57,Pittsburgh,2025/26
+D,Ekblad,57,D,Undisclosed,@TBL,1-6,74,57,Florida,2025/26
+F,Fiala,57,F,Leg,VGK,4-6,96,57,Los Angeles,2025/26
+F,Granlund,57,F,Upper body,EDM,6-5,85,57,Anaheim,2025/26
+F,M. Foligno,57,F,Illness,MTL,4-3 (OT),49,57,Minnesota,2025/26
+F,Marchand,57,F,Undisclosed,@TBL,1-6,64,57,Florida,2025/26
+D,Morrissey,57,D,Upper body,@VAN,3-2 (OT),76,57,Winnipeg,2025/26
+F,Niederreiter,57,F,Lower body,@VAN,3-2 (OT),49,57,Winnipeg,2025/26
+D,Pionk,57,D,Undisclosed,@VAN,3-2 (OT),85,57,Winnipeg,2025/26
+F,Rodrigues,57,F,Illness,@TBL,1-6,37,57,Florida,2025/26
+G,Ullmark,57,G,Illness,@PHI,2-1 (OT),101,57,Ottawa,2025/26
+G,Wallstedt,57,G,Illness,MTL,4-3 (OT),27,57,Minnesota,2025/26
+F,Carcone,58,F,Illness,COL,2-4,9,58,Utah,2025/26
+F,Chytil,58,F,Facial,WPG,2-3 (OT),54,58,Vancouver,2025/26
+F,Dach,58,F,Undisclosed,@NSH,2-4,11,58,Chicago,2025/26
+F,Faksa,58,F,Upper body,SEA,4-1,24,58,Dallas,2025/26
+F,Hintz,58,F,Illness,SEA,4-1,103,58,Dallas,2025/26
+D,Kaiser,58,D,Lower body,@NSH,2-4,21,58,Chicago,2025/26
+F,Kiviranta,58,F,Concussion,CHI,3-1,15,58,Colorado,2025/26
+F,Kuzmenko,58,F,Knee,EDM,1-8,52,58,Los Angeles,2025/26
+D,Lindgren,58,D,Undisclosed,@STL,1-5,55,58,Seattle,2025/26
+D,Matinpalo,58,D,Undisclosed,DET,1-2 (OT),11,58,Ottawa,2025/26
+F,Rantanen,58,F,Lower body,SEA,4-1,146,58,Dallas,2025/26
+F,Rempe,58,F,Thumb,PHI,2-3 (OT),12,58,NY Rangers,2025/26
+F,Strome,58,F,Illness,WPG,5-4 (OT),61,58,Anaheim,2025/26
+F,Sundqvist,58,F,Upper body,SEA,5-1,18,58,St. Louis,2025/26
+F,Terry,58,F,Upper body,WPG,5-4 (OT),85,58,Anaheim,2025/26
+F,Armia,59,F,Upper body,CGY,2-0,30,59,Los Angeles,2025/26
+D,Doughty,59,D,Lower body,CGY,2-0,134,59,Los Angeles,2025/26
+F,Goncalves,59,F,Undisclosed,@MIN,1-5,15,59,Tampa Bay,2025/26
+F,James,59,F,Leg,@MIN,1-5,12,59,Tampa Bay,2025/26
+F,Kapanen,59,F,Undisclosed,@ANA,5-6,16,59,Edmonton,2025/26
+F,Namestnikov,59,F,Lower body,@SJS,1-2 (OT),37,59,Winnipeg,2025/26
+D,Parayko,59,D,Back,NJD,1-3,79,59,St. Louis,2025/26
+D,Rinzel,59,D,Illness,@COL,1-3,17,59,Chicago,2025/26
+F,Schwindt,59,F,Lower body,BUF,2-3,10,59,Florida,2025/26
+D,Werenski,59,D,Illness,@NYR,5-4 (OT),117,59,Columbus,2025/26
+D,Balinskis,60,D,Undisclosed,@NYI,4-5,10,60,Florida,2025/26
+F,Byfield,60,F,Upper body,COL,2-4,76,60,Los Angeles,2025/26
+D,Carlson,60,D,Lower body,PHI,3-1,98,60,Washington,2025/26
+F,Janmark,60,F,Undisclosed,@LAK,8-1,18,60,Edmonton,2025/26
+F,Jenner,60,F,Lower body,NSH,3-2,46,60,Columbus,2025/26
+F,Konecny,60,F,Upper body,@TOR,3-2 (SO),107,60,Philadelphia,2025/26
+G,Kuemper,60,G,Illness,COL,2-4,64,60,Los Angeles,2025/26
+F,Lehkonen,60,F,Upper body,@ANA,5-1,55,60,Colorado,2025/26
+F,Lizotte,60,F,Lower body,@BOS,1-2,23,60,Pittsburgh,2025/26
+F,Moore,60,F,Illness,COL,2-4,51,60,Los Angeles,2025/26
+F,Veleno,60,F,Illness,@SJS,5-7,11,60,Montreal,2025/26
+D,Wilsby,60,D,Lower body,DET,2-4,9,60,Nashville,2025/26
+F,Wilson,60,F,Illness,PHI,3-1,79,60,Washington,2025/26
+D,Aspirot,61,D,Illness,@NSH,3-6,9,61,Boston,2025/26
+F,Drouin,61,F,Lower body,FLA,5-4,49,61,NY Islanders,2025/26
+D,Fabbro,61,D,Lower body,FLA,4-2,50,61,Columbus,2025/26
+F,Holtz,61,F,Upper body,@BUF,2-3,10,61,Vegas,2025/26
+D,Joseph,61,D,Upper body,CAR,4-6,9,61,Vancouver,2025/26
+F,Kane,61,F,Illness,CAR,4-6,63,61,Vancouver,2025/26
+D,Lilleberg,61,D,Facial,@TOR,5-2,10,61,Tampa Bay,2025/26
+F,M. Foligno,61,F,Lower body,STL,1-3,49,61,Minnesota,2025/26
+F,Miller,61,F,Upper body,TOR,6-2,98,61,NY Rangers,2025/26
+D,Seeler,61,D,Lower body,UTA,0-3,33,61,Philadelphia,2025/26
+F,Stone,61,F,Upper body,@BUF,2-3,116,61,Vegas,2025/26
+D,Carlson,62,D,Lower body,MTL,6-5 (SO),98,62,Anaheim,2025/26
+F,Faksa,62,F,Lower body,COL,4-5 (SO),24,62,Dallas,2025/26
+F,Gaudreau,62,F,Illness,OTT,4-7,26,62,Seattle,2025/26
+G,Gibson,62,G,Upper body,VGK,3-4 (OT),78,62,Detroit,2025/26
+D,Hanley,62,D,Illness,CAR,5-4,21,62,Calgary,2025/26
+G,Knight,62,G,Illness,VAN,3-6,55,62,Chicago,2025/26
+F,Kozak,62,F,Undisclosed,@PIT,5-1,9,62,Buffalo,2025/26
+F,Landeskog,62,F,Lower body,MIN,3-2 (SO),85,62,Colorado,2025/26
+D,Lindgren,62,D,Illness,OTT,4-7,55,62,Seattle,2025/26
+F,O'Reilly,62,F,Eye,BOS,6-3,55,62,Nashville,2025/26
+D,Pesce,62,D,Lower body,TOR,4-3 (SO),67,62,New Jersey,2025/26
+D,Pulock,62,D,Upper body,@ANA,1-5,75,62,NY Islanders,2025/26
+D,Sergachev,62,D,Lower body,@PHI,3-0,104,62,Utah,2025/26
+G,Askarov,63,G,Lower body,@BOS,4-2,24,63,San Jose,2025/26
+F,Brazeau,63,F,Upper body,BOS,5-4 (OT),18,63,Pittsburgh,2025/26
+D,Gostisbehere,63,D,Lower body,@CGY,4-5,39,63,Carolina,2025/26
+F,Hintz,63,F,Lower body,CHI,4-3 (OT),103,63,Dallas,2025/26
+F,Johansson,63,F,Upper body,@VGK,4-2,10,63,Minnesota,2025/26
+F,Lazar,63,F,Undisclosed,CAR,3-6,9,63,Edmonton,2025/26
+F,Perron,63,F,Hernia,FLA,1-3,49,63,Detroit,2025/26
+D,Sanderson,63,D,Upper body,@VAN,2-0,98,63,Ottawa,2025/26
+F,Schwartz,63,F,Facial,NSH,2-4,67,63,Seattle,2025/26
+D,Whitecloud,63,D,Upper body,@WSH,3-7,34,63,Calgary,2025/26
+D,Černák,63,D,Undisclosed,CBJ,2-5,63,63,Tampa Bay,2025/26
+F,Caufield,64,F,Illness,@OTT,3-2,96,64,Montreal,2025/26
+F,Colton,64,F,Upper body,@SEA,5-1,49,64,Colorado,2025/26
+D,Girard,64,D,Upper body,@CAR,4-5 (SO),61,64,Pittsburgh,2025/26
+D,Gudbranson,64,D,Upper body,@TBL,5-2,49,64,Columbus,2025/26
+F,Henrique,64,F,Knee,@VGK,4-2,37,64,Edmonton,2025/26
+F,K. Hayes,64,F,Upper body,@CAR,4-5 (SO),44,64,Pittsburgh,2025/26
+F,Kane,64,F,Upper body,OTT,0-2,63,64,Vancouver,2025/26
+F,Larkin,64,F,Leg,@NJD,3-0,106,64,Detroit,2025/26
+F,Marchand,64,F,Lower body,DET,4-3,64,64,Florida,2025/26
+F,Moore,64,F,Lower body,UTA,3-2 (OT),16,64,Chicago,2025/26
+F,Reinhart,64,F,Undisclosed,DET,4-3,105,64,Florida,2025/26
+D,Balinskis,65,D,Foot,CBJ,2-1 (OT),10,65,Florida,2025/26
+D,Carlile,65,D,Lower body,CAR,2-4,9,65,Tampa Bay,2025/26
+F,Chernyshov,65,F,Concussion,@OTT,4-7,12,65,San Jose,2025/26
+D,Jensen,65,D,Knee,ANA,2-0,49,65,Ottawa,2025/26
+F,Johnston,65,F,Lower body,@TOR,4-6,13,65,Anaheim,2025/26
+F,Lundell,65,F,Undisclosed,CBJ,2-1 (OT),61,65,Florida,2025/26
+F,Verhaeghe,65,F,Undisclosed,CBJ,2-1 (OT),85,65,Florida,2025/26
+F,Wennberg,65,F,Upper body,@OTT,4-7,61,65,San Jose,2025/26
+F,Bennett,66,F,Undisclosed,@SEA,2-6,98,66,Florida,2025/26
+F,Brink,66,F,Upper body,PHI,2-3 (SO),18,66,Minnesota,2025/26
+F,Copp,66,F,Leg,@TBL,1-4,69,66,Detroit,2025/26
+F,Dach,66,F,Undisclosed,@DAL,2-7,11,66,Edmonton,2025/26
+D,Emberson,66,D,Undisclosed,@DAL,2-7,16,66,Edmonton,2025/26
+D,Graves,66,D,Undisclosed,@UTA,4-3,55,66,Pittsburgh,2025/26
+D,Kaiser,66,D,Shoulder,@VGK,0-4,21,66,Chicago,2025/26
+F,Reinhart,66,F,Foot,@SEA,2-6,105,66,Florida,2025/26
+F,Tuch,66,F,Lower body,WSH,1-2,58,66,Buffalo,2025/26
+F,Brandsegg-Nygård,67,F,Undisclosed,@DAL,2-3 (OT),18,67,Detroit,2025/26
+F,Dach,67,F,Upper body,BOS,3-2 (OT),41,67,Montreal,2025/26
+G,Ellis,67,G,Undisclosed,TOR,3-2 (SO),9,67,Buffalo,2025/26
+F,Kempe,67,F,Lower body,@NYR,4-1,67,67,Los Angeles,2025/26
+D,Kuznetsov,67,D,Upper body,@DET,2-5,10,67,Calgary,2025/26
+F,Lizotte,67,F,Upper body,@COL,7-2,23,67,Pittsburgh,2025/26
+F,Matthews,67,F,Knee,@BUF,2-3 (SO),162,67,Toronto,2025/26
+F,Pearson,67,F,Lower body,TOR,3-2 (SO),12,67,Buffalo,2025/26
+F,Rasmussen,67,F,Lower body,@DAL,2-3 (OT),39,67,Detroit,2025/26
+D,Samuelsson,67,D,Undisclosed,TOR,3-2 (SO),52,67,Buffalo,2025/26
+F,Tolvanen,67,F,Upper body,TBL,2-6,42,67,Seattle,2025/26
+F,Anderson,68,F,Upper body,@DET,1-3,67,68,Montreal,2025/26
+F,Barkey,68,F,Upper body,@LAK,4-3 (SO),11,68,Philadelphia,2025/26
+F,Couturier,68,F,Upper body,@LAK,4-3 (SO),95,68,Philadelphia,2025/26
+D,Desharnais,68,D,Upper body,PHI,1-4,24,68,San Jose,2025/26
+F,Glendening,68,F,Lower body,@LAK,4-3 (SO),9,68,Philadelphia,2025/26
+D,Hedman,68,D,Illness,@EDM,5-2,98,68,Tampa Bay,2025/26
+G,Saros,68,G,Upper body,SEA,3-1,94,68,Nashville,2025/26
+F,Shabanov,68,F,Lower body,@TOR,3-1,55,68,NY Islanders,2025/26
+F,Stenlund,68,F,Lower body,@DAL,6-3,24,68,Utah,2025/26
+F,Toffoli,68,F,Lower body,PHI,1-4,73,68,San Jose,2025/26
+F,Tuch,68,F,Illness,@VGK,2-0,58,68,Buffalo,2025/26
+F,Winterton,68,F,Illness,@NSH,1-3,10,68,Seattle,2025/26
+D,Crevier,69,D,Undisclosed,COL,1-4,11,69,Chicago,2025/26
+F,Draisaitl,69,F,Lower body,SJS,5-3,171,69,Edmonton,2025/26
+F,Eriksson Ek,69,F,Lower body,@CHI,4-3 (OT),64,69,Minnesota,2025/26
+F,Laba,69,F,Lower body,@CBJ,3-6,12,69,NY Rangers,2025/26
+F,Lundell,69,F,Ribs,@CGY,1-4,61,69,Florida,2025/26
+F,Mangiapane,69,F,Upper body,COL,1-4,44,69,Chicago,2025/26
+F,McCann,69,F,Lower body,@CBJ,2-5,61,69,Seattle,2025/26
+F,Reaves,69,F,Hand,@NSH,3-6,16,69,San Jose,2025/26
+F,Samoskevich,69,F,Neck,@CGY,1-4,9,69,Florida,2025/26
+D,Tucker,69,D,Lower body,@VAN,3-1,11,69,St. Louis,2025/26
+D,Vaakanainen,69,D,Upper body,@CBJ,3-6,19,69,NY Rangers,2025/26
+D,Gilbert,70,D,Upper body,@NYR,2-1,11,70,Ottawa,2025/26
+F,Kaprizov,70,F,Lower body,CHI,1-2,110,70,Minnesota,2025/26
+D,Klingberg,70,D,Lower body,@STL,1-2 (OT),49,70,San Jose,2025/26
+D,Mikkola,70,D,Knee,SEA,5-4 (SO),30,70,Florida,2025/26
+G,Quick,70,G,Upper body,WPG,2-3 (SO),23,70,NY Rangers,2025/26
+F,Roy,70,F,Upper body,@PIT,6-2,37,70,Colorado,2025/26
+D,Shea,70,D,Upper body,CAR,1-5,11,70,Pittsburgh,2025/26
+F,Zary,70,F,Upper body,TBL,4-3 (OT),46,70,Calgary,2025/26
+G,Askarov,71,G,Upper body,@CBJ,3-2,24,71,San Jose,2025/26
+D,Chabot,71,D,Arm,@DET,3-2,98,71,Ottawa,2025/26
+F,Duclair,71,F,Lower body,CBJ,1-0,43,71,NY Islanders,2025/26
+F,Frederic,71,F,Undisclosed,TBL,2-5,47,71,Edmonton,2025/26
+F,Grebenkin,71,F,Upper body,CHI,5-1,11,71,Philadelphia,2025/26
+F,Gritsyuk,71,F,Upper body,@NSH,4-2,17,71,New Jersey,2025/26
+D,Grzelcyk,71,D,Upper body,@NYI,4-3,12,71,Chicago,2025/26
+F,Malkin,71,F,Upper body,COL,2-6,74,71,Pittsburgh,2025/26
+D,Pulock,71,D,Lower body,CBJ,1-0,75,71,NY Islanders,2025/26
+D,Rielly,71,D,Lower body,@OTT,2-5,91,71,Toronto,2025/26
+F,Texier,71,F,Lower body,CBJ,2-1,12,71,Montreal,2025/26
+F,Thomas,71,F,Upper body,SJS,2-1 (OT),99,71,St. Louis,2025/26
+D,Thomson,71,D,Lower body,@DET,3-2,9,71,Ottawa,2025/26
+F,Frank,72,F,Lower body,@STL,0-3,9,72,Washington,2025/26
+F,Harkins,72,F,Hand,@CGY,3-2 (OT),10,72,Anaheim,2025/26
+F,Kucherov,72,F,Illness,OTT,4-2,116,72,Tampa Bay,2025/26
+F,Paul,72,F,Illness,OTT,4-2,38,72,Tampa Bay,2025/26
+F,Rodrigues,72,F,Finger,@NYI,2-5,37,72,Florida,2025/26
+G,Talbot,72,G,Undisclosed,@BUF,5-2,30,72,Detroit,2025/26
+F,Terry,72,F,Lower body,@CGY,3-2 (OT),85,72,Anaheim,2025/26
+F,Anderson,73,F,Illness,@CAR,3-1,67,73,Montreal,2025/26
+F,Barron,73,F,Concussion,@COL,4-2,23,73,Winnipeg,2025/26
+F,Chernyshov,73,F,Illness,ANA,4-3,12,73,San Jose,2025/26
+F,Crosby,73,F,Lower body,DAL,3-6,106,73,Pittsburgh,2025/26
+D,DeAngelo,73,D,Lower body,DAL,2-1,21,73,NY Islanders,2025/26
+D,Gudas,73,D,Lower body,@EDM,2-4,49,73,Anaheim,2025/26
+D,Hanley,73,D,Upper body,VAN,7-3,21,73,Calgary,2025/26
+F,Hayton,73,F,Upper body,WSH,4-7,32,73,Utah,2025/26
+D,Mintyukov,73,D,Lower body,@EDM,2-4,21,73,Anaheim,2025/26
+D,Severson,73,D,Shoulder,SJS,2-3,76,73,Columbus,2025/26
+F,Steel,73,F,Hip,@PIT,6-3,26,73,Dallas,2025/26
+F,Wright,73,F,Upper body,@EDM,0-3,48,73,Seattle,2025/26
+F,Östlund,73,F,Upper body,DET,2-5,17,73,Buffalo,2025/26
+F,Bastian,74,F,Hand,@PHI,1-2 (OT),9,74,Dallas,2025/26
+D,C. Makar,74,D,Upper body,VAN,6-8,110,74,Colorado,2025/26
+D,Carrier,74,D,Upper body,@TBL,4-1,46,74,Montreal,2025/26
+F,Helenius,74,F,Undisclosed,STL,2-1 (OT),11,74,Los Angeles,2025/26
+F,Kane,74,F,Undisclosed,@COL,8-6,63,74,Vancouver,2025/26
+D,Levshunov,74,D,Hand,@NJD,3-5,52,74,Chicago,2025/26
+D,Lohrei,74,D,Upper body,@CBJ,4-3 (SO),39,74,Boston,2025/26
+D,Spurgeon,74,D,Upper body,@BOS,3-6,92,74,Minnesota,2025/26
+F,Voronkov,74,F,Hand,BOS,3-4 (SO),51,74,Columbus,2025/26
+F,A. Protas,75,F,Upper body,PHI,6-4,41,75,Washington,2025/26
+F,Buchnevich,75,F,Undisclosed,@ANA,6-2,98,75,St. Louis,2025/26
+F,Bunting,75,F,Lower body,@BOS,3-6,55,75,Dallas,2025/26
+D,Ekblad,75,D,Finger,BOS,2-1,74,75,Florida,2025/26
+F,Gauthier,75,F,Upper body,@SJS,3-4,23,75,Anaheim,2025/26
+D,Gudas,75,D,Lower body,@SJS,3-4,49,75,Anaheim,2025/26
+F,Hagel,75,F,Lower body,PIT,6-3,79,75,Tampa Bay,2025/26
+D,Kulikov,75,D,Nose,BOS,2-1,14,75,Florida,2025/26
+D,Mintyukov,75,D,Lower body,@SJS,3-4,21,75,Anaheim,2025/26
+D,Myers,75,D,Undisclosed,@BOS,3-6,18,75,Dallas,2025/26
+F,Olivier,75,F,Upper body,CAR,2-5,37,75,Columbus,2025/26
+F,Rust,75,F,Lower body,DET,5-1,63,75,Pittsburgh,2025/26
+F,Sabourin,75,F,Lower body,PIT,6-3,9,75,Tampa Bay,2025/26
+D,Yakemchuk,75,D,Concussion,BUF,4-1,24,75,Ottawa,2025/26
+F,Appleton,76,F,Upper body,@NYR,1-4,35,76,Detroit,2025/26
+F,Carrick,76,F,Arm,@OTT,1-4,12,76,Buffalo,2025/26
+D,Faulk,76,D,Lower body,@NYR,1-4,79,76,Detroit,2025/26
+F,Holmström,76,F,Upper body,@BUF,3-4,44,76,NY Islanders,2025/26
+D,Jones,76,D,Shoulder,@TBL,3-6,11,76,Pittsburgh,2025/26
+D,Kleven,76,D,Upper body,MIN,1-4,20,76,Ottawa,2025/26
+G,Lankinen,76,G,Illness,UTA,4-7,55,76,Vancouver,2025/26
+F,Marchment,76,F,Undisclosed,@CAR,1-5,55,76,Columbus,2025/26
+F,McBain,76,F,Lower body,@VAN,7-4,52,76,Utah,2025/26
+F,Nichushkin,76,F,Upper body,STL,2-3,75,76,Colorado,2025/26
+D,Salomonsson,76,D,Concussion,@CBJ,2-1,11,76,Winnipeg,2025/26
+D,Weegar,76,D,Upper body,@VAN,7-4,76,76,Utah,2025/26
+F,Barron,77,F,Lower body,SEA,6-2,23,77,Winnipeg,2025/26
+D,Bogosian,77,D,Lower body,@DET,5-4,15,77,Minnesota,2025/26
+F,Cirelli,77,F,Undisclosed,@BUF,2-4,76,77,Tampa Bay,2025/26
+D,Ekman-Larsson,77,D,Lower body,@LAK,6-7 (OT),43,77,Toronto,2025/26
+G,Grubauer,77,G,Lower body,@MIN,2-5,72,77,Seattle,2025/26
+D,Hague,77,D,Upper body,@LAK,2-3 (SO),67,77,Nashville,2025/26
+F,Hyman,77,F,Undisclosed,VGK,1-5,67,77,Edmonton,2025/26
+F,Kane,77,F,Upper body,VGK,1-2,63,77,Vancouver,2025/26
+G,Lankinen,77,G,Upper body,VGK,1-2,55,77,Vancouver,2025/26
+F,Martinook,77,F,Undisclosed,@OTT,3-6,37,77,Carolina,2025/26
+F,Nyquist,77,F,Undisclosed,SEA,6-2,40,77,Winnipeg,2025/26
+F,Staal,77,F,Undisclosed,@OTT,3-6,35,77,Carolina,2025/26
+D,Bahl,78,D,Lower body,@COL,1-3,65,78,Calgary,2025/26
+F,Holmberg,78,F,Upper body,@OTT,2-6,19,78,Tampa Bay,2025/26
+F,Kadri,78,F,Finger,CGY,3-1,68,78,Colorado,2025/26
+G,Skinner,78,G,Eye,FLA,5-2,32,78,Pittsburgh,2025/26
+F,Strome,78,F,Illness,@COL,1-3,61,78,Calgary,2025/26
+F,Veleno,78,F,Illness,FLA,4-3 (SO),11,78,Montreal,2025/26
+D,Carlo,79,D,Lower body,@NYI,3-5,43,79,Toronto,2025/26
+D,Chatfield,79,D,Lower body,@CHI,7-2,37,79,Carolina,2025/26
+G,Daccord,79,G,Lower body,CGY,4-1,61,79,Seattle,2025/26
+F,Dewar,79,F,Lower body,@NJD,5-2,13,79,Pittsburgh,2025/26
+D,Jones,79,D,Foot,@OTT,1-5,85,79,Florida,2025/26
+F,Joshua,79,F,Upper body,@NYI,3-5,40,79,Toronto,2025/26
+D,Josi,79,D,Upper body,@UTA,1-4,110,79,Nashville,2025/26
+D,Kulikov,79,D,Finger,@OTT,1-5,14,79,Florida,2025/26
+D,L. Hughes,79,D,Undisclosed,PIT,2-5,110,79,New Jersey,2025/26
+G,Lindgren,79,G,Upper body,@TOR,4-0,37,79,Washington,2025/26
+D,Lundkvist,79,D,Illness,MIN,5-4,15,79,Dallas,2025/26
+G,Lyon,79,G,Lower body,@NYR,5-3,18,79,Buffalo,2025/26
+F,Malott,79,F,Undisclosed,EDM,1-0,9,79,Los Angeles,2025/26
+D,Marino,79,D,Upper body,CAR,1-4,54,79,Utah,2025/26
+F,Martinook,79,F,Undisclosed,@CHI,7-2,37,79,Carolina,2025/26
+F,Rasmussen,79,F,Lower body,PHI,6-3,39,79,Detroit,2025/26
+G,Stolarz,79,G,Lower body,@NYI,3-5,30,79,Toronto,2025/26
+F,Bennett,80,F,Lower body,@TOR,6-2,98,80,Florida,2025/26
+F,Blake,80,F,Undisclosed,@UTA,4-1,11,80,Carolina,2025/26
+F,Carrier,80,F,Undisclosed,@UTA,4-1,24,80,Carolina,2025/26
+F,Crosby,80,F,Lower body,WSH,3-6,106,80,Pittsburgh,2025/26
+F,Dickinson,80,F,Leg,@LAK,0-1,26,80,Edmonton,2025/26
+F,Girgensons,80,F,Undisclosed,@BOS,2-1,10,80,Tampa Bay,2025/26
+F,Gridin,80,F,Illness,UTA,4-1,11,80,Calgary,2025/26
+F,Hall,80,F,Undisclosed,@UTA,4-1,39,80,Carolina,2025/26
+D,Heiskanen,80,D,Lower body,NYR,2-0,103,80,Dallas,2025/26
+F,Iafallo,80,F,Undisclosed,@VGK,2-6,45,80,Winnipeg,2025/26
+F,Jankowski,80,F,Undisclosed,@UTA,4-1,10,80,Carolina,2025/26
+D,Karlsson,80,D,Lower body,WSH,3-6,122,80,Pittsburgh,2025/26
+F,Kindel,80,F,Upper body,WSH,3-6,18,80,Pittsburgh,2025/26
+D,Kuznetsov,80,D,Upper body,UTA,4-1,10,80,Calgary,2025/26
+F,Lehkonen,80,F,Undisclosed,@EDM,2-1 (SO),55,80,Colorado,2025/26
+D,Letang,80,D,Upper body,WSH,3-6,74,80,Pittsburgh,2025/26
+F,Malkin,80,F,Upper body,WSH,3-6,74,80,Pittsburgh,2025/26
+D,Manson,80,D,Upper body,@EDM,2-1 (SO),55,80,Colorado,2025/26
+G,Markström,80,G,Undisclosed,@DET,5-3,50,80,New Jersey,2025/26
+F,McCann,80,F,Lower body,LAK,3-5,61,80,Seattle,2025/26
+D,Miller,80,D,Undisclosed,@UTA,4-1,91,80,Carolina,2025/26
+F,Namestnikov,80,F,Undisclosed,@VGK,2-6,37,80,Winnipeg,2025/26
+D,Pionk,80,D,Undisclosed,@VGK,2-6,85,80,Winnipeg,2025/26
+D,Raddysh,80,D,Undisclosed,@BOS,2-1,12,80,Tampa Bay,2025/26
+F,Rust,80,F,Lower body,WSH,3-6,63,80,Pittsburgh,2025/26
+F,Shabanov,80,F,Upper body,OTT,0-3,55,80,NY Islanders,2025/26
+F,Stankoven,80,F,Undisclosed,@UTA,4-1,11,80,Carolina,2025/26
+F,Turcotte,80,F,Undisclosed,@SEA,5-3,9,80,Los Angeles,2025/26
+G,Vejmelka,80,G,Undisclosed,@CGY,1-4,58,80,Utah,2025/26
+F,Verhaeghe,80,F,Lower body,@TOR,6-2,85,80,Florida,2025/26
+D,Wotherspoon,80,D,Upper body,WSH,3-6,12,80,Pittsburgh,2025/26
+D,del Mastro,80,D,Undisclosed,STL,3-5,11,80,Chicago,2025/26
+F,Acciari,81,F,Upper body,@WSH,0-3,24,81,Pittsburgh,2025/26
+F,Aho,81,F,Undisclosed,@PHI,2-3 (SO),119,81,Carolina,2025/26
+D,Brodin,81,D,Undisclosed,@STL,3-6,73,81,Minnesota,2025/26
+D,Clifton,81,D,Upper body,@WSH,0-3,41,81,Pittsburgh,2025/26
+F,Coronato,81,F,Undisclosed,COL,1-3,79,81,Calgary,2025/26
+D,Dobson,81,D,Upper body,@NYI,4-1,116,81,Montreal,2025/26
+D,Gostisbehere,81,D,Undisclosed,@PHI,2-3 (SO),39,81,Carolina,2025/26
+D,Gudas,81,D,Lower body,@MIN,2-3,49,81,Anaheim,2025/26
+F,Hagel,81,F,Lower body,DET,4-3 (OT),79,81,Tampa Bay,2025/26
+D,Jaccob Slavin,81,D,Upper body,@PHI,2-3 (SO),79,81,Carolina,2025/26
+F,Jarvis,81,F,Undisclosed,@PHI,2-3 (SO),96,81,Carolina,2025/26
+G,Johansson,81,G,Undisclosed,DET,4-3 (OT),15,81,Tampa Bay,2025/26
+F,Jones,81,F,Lower body,COL,1-2 (SO),12,81,Edmonton,2025/26
+F,Kreider,81,F,Illness,@MIN,2-3,79,81,Anaheim,2025/26
+F,Mangiapane,81,F,Lower body,BUF,1-5,44,81,Chicago,2025/26
+F,Mantha,81,F,Lower body,@WSH,0-3,55,81,Pittsburgh,2025/26
+F,Nelson,81,F,Undisclosed,@CGY,3-1,91,81,Colorado,2025/26
+D,Sandin,81,D,Leg,PIT,3-0,56,81,Washington,2025/26
+F,Schwartz,81,F,Upper body,@VGK,1-4,67,81,Seattle,2025/26
+D,Shea,81,D,Upper body,@WSH,0-3,11,81,Pittsburgh,2025/26
+F,Staal,81,F,Undisclosed,@PHI,2-3 (SO),35,81,Carolina,2025/26
+F,Svechnikov,81,F,Undisclosed,@PHI,2-3 (SO),95,81,Carolina,2025/26
+D,Toews,81,D,Undisclosed,@CGY,3-1,88,81,Colorado,2025/26
+G,Andersen,82,G,Undisclosed,@NYI,2-1,43,82,Carolina,2025/26
+D,Chatfield,82,D,Undisclosed,@NYI,2-1,37,82,Carolina,2025/26
+G,Cooley,82,G,Illness,LAK,3-1,9,82,Calgary,2025/26
+F,Dubois,82,F,Upper body,@CBJ,2-1,104,82,Washington,2025/26
+D,Durzi,82,D,Upper body,STL,3-5,73,82,Utah,2025/26
+F,Dvorak,82,F,Undisclosed,MTL,4-2,66,82,Philadelphia,2025/26
+D,Forsling,82,D,Undisclosed,DET,8-1,70,82,Florida,2025/26
+F,Guenther,82,F,Undisclosed,STL,3-5,87,82,Utah,2025/26
+F,Hall,82,F,Undisclosed,@NYI,2-1,39,82,Carolina,2025/26
+D,Josi,82,D,Undisclosed,ANA,4-5,110,82,Nashville,2025/26
+F,Järnkrok,82,F,Undisclosed,@OTT,1-3,26,82,Toronto,2025/26
+F,Larkin,82,F,Undisclosed,@FLA,1-8,106,82,Detroit,2025/26
+F,MacKinnon,82,F,Undisclosed,SEA,2-0,154,82,Colorado,2025/26
+F,Marchessault,82,F,Undisclosed,ANA,4-5,67,82,Nashville,2025/26
+D,Miller,82,D,Undisclosed,@NYI,2-1,91,82,Carolina,2025/26
+F,Mittelstadt,82,F,Undisclosed,NJD,4-0,70,82,Boston,2025/26
+F,Nosek,82,F,Leg,DET,8-1,9,82,Florida,2025/26
+D,Pulock,82,D,Undisclosed,CAR,1-2,75,82,NY Islanders,2025/26
+D,Walker,82,D,Undisclosed,@NYI,2-1,44,82,Carolina,2025/26
+F,Zary,82,F,Undisclosed,LAK,3-1,46,82,Calgary,2025/26
