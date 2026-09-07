@@ -181,8 +181,8 @@ window.Quarto = {
 <p>Before modeling injury rates, I made a handful of preprocessing choices to ensure the data were internally consistent and comparable across seasons:</p>
 <p><strong>Data source and structure</strong></p>
 <p>The dataset comes from the <a href="https://nhlinjuryviz.blogspot.com/2025/10/202526-NHL-man-games-lost-plots.html">NHL Injury Viz Man Games Lost plots</a> (many thanks to the site’s admin, L3WH, for their assistance locating and parsing the correct tables). These plots record each game missed by a given player, along with the season, team, position, and injury type. The <code>GameAdj</code> column is a cumulative game count, beginning with Game 1 of the 2000/01 season. Using <a href="https://github.com/chrishires/NHL-Injuries/blob/main/transform.ipynb">this script</a>, I converted them from a log of games missed to a list of unique injuries reported, along with the game for which they were first reported. The converted table looks like this:</p>
-<div id="e1818989" class="cell" data-execution_count="3">
-<div class="cell-output cell-output-display" data-execution_count="3">
+<div id="e1818989" class="cell" data-execution_count="2">
+<div class="cell-output cell-output-display" data-execution_count="2">
 <div>
 
 
@@ -309,8 +309,8 @@ window.Quarto = {
 <p><strong>Aggregating Injuries By Games</strong></p>
 <p>To estimate the injury rate, we’ll aggregate injury counts by game and pool injuries across all the teams in the league for a given game. For example, for Game 5, the Count value is the sum of injuries reported by each team when they played their 5th game of the season.</p>
 <p>This approach does have some drawbacks; mainly that different amounts of time pass between games for different teams at any given point in the season. Players are exposed to injury risk between games, during practice, or even at a <a href="https://bleacherreport.com/articles/25294520-what-jack-hughes-injury-devils-star-reportedly-cut-hand-fluke-accident">team dinner</a>. The injuries reported in the data occurred sometime between the start of the previous game and the start of the game indicated, but we can’t be certain exactly when. That said, the per-game structure is very close to a constant time interval, and should be suitable for our purposes. Here’s the aggregated table:</p>
-<div id="eaaaeda3" class="cell" data-execution_count="4">
-<div class="cell-output cell-output-display" data-execution_count="4">
+<div id="eaaaeda3" class="cell" data-execution_count="3">
+<div class="cell-output cell-output-display" data-execution_count="3">
 <div>
 
 
@@ -411,7 +411,7 @@ window.Quarto = {
 </div>
 <p><strong>Handling missing zero-injury games</strong></p>
 <p>The dataset only records games in which at least one injury was reported, which means we don’t observe games in which zero new injuries were reported. A completeness check confirms that all game numbers in the observed range are present, despite the fact that there are no zeros in the data. Because injuries are pooled across all teams, with a league-wide per-game rate <span class="math inline">\(\approx10\)</span>, the Poisson probability of a zero-injury day is <span class="math inline">\(e^{-10} = .00005\)</span> (i.e., very unlikely).</p>
-<div id="673772a4" class="cell" data-execution_count="5">
+<div id="673772a4" class="cell" data-execution_count="4">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>zeros <span class="op">=</span> <span class="bu">int</span>(injuries[(injuries[<span class="st">'Count'</span>] <span class="op">==</span> <span class="dv">0</span>)][<span class="st">'Count'</span>].count())</span>
@@ -422,7 +422,7 @@ window.Quarto = {
 <pre><code>Zero count: 0</code></pre>
 </div>
 </div>
-<div id="42533583" class="cell" data-execution_count="6">
+<div id="42533583" class="cell" data-execution_count="5">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a>full_range <span class="op">=</span> <span class="bu">set</span>(<span class="bu">range</span>(<span class="dv">1</span>, <span class="dv">1930</span>))</span>
@@ -437,8 +437,8 @@ window.Quarto = {
 </div>
 <p><strong>Excluding Game 1s</strong></p>
 <p>Every season, teams report a large number of injuries for Game 1. These are injuries that occurred in the offseason, the pre-season, or carryover injuries from the previous season. The original data set counts games missed, which means the player was injured sometime prior to the game indicated. We’re only interested in injuries that occur during the season, though, so I removed all Game 1 values to avoid inflating each season’s count.</p>
-<div id="b5fe61d2" class="cell" data-execution_count="7">
-<div class="cell-output cell-output-display" data-execution_count="7">
+<div id="b5fe61d2" class="cell" data-execution_count="6">
+<div class="cell-output cell-output-display" data-execution_count="6">
 <div>
 
 
@@ -496,8 +496,8 @@ window.Quarto = {
 </div>
 <p><strong>Excluding COVID-affected seasons</strong></p>
 <p>The 2019/20, 2020/21, and 2021/22 seasons were affected by the COVID-19 pandemic. Both 2019/20 and 2020/21 were shortened by the pandemic, and 2021/22 featured abnormally high injury counts due to COVID outbreaks. While I think there’s an argument for leaving these seasons in the data, I ultimately decided that these seasons were played under a different “injury regime” than the others and removed them. Our goal is to compare 2025/26 to a typical season, but these seasons don’t fit that description.</p>
-<div id="b12798e1" class="cell" data-execution_count="9">
-<div class="cell-output cell-output-display" data-execution_count="9">
+<div id="b12798e1" class="cell" data-execution_count="8">
+<div class="cell-output cell-output-display" data-execution_count="8">
 <div>
 
 
@@ -533,7 +533,7 @@ window.Quarto = {
 </div>
 <p><strong>Aligning seasons for comparison</strong></p>
 <p>The data were collected on December 12th, 2025, with the 2025/26 season still in progress. A quick check against the NHL schedule (obtained from <a href="https://www.hockey-reference.com/">Hockey Reference</a>) shows that every team had played at least 29 games by that date.</p>
-<div id="1424c8bd" class="cell" data-execution_count="11">
+<div id="1424c8bd" class="cell" data-execution_count="10">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a>sched_25 <span class="op">=</span> pd.read_csv(<span class="st">'2025_schedule.csv'</span>)</span>
@@ -550,8 +550,8 @@ window.Quarto = {
 </div>
 </div>
 <p>To see how this year’s first 29 games compares to the first 29 games of each previous season, we’ll truncate all the seasons to that number. Here’s how they compare:</p>
-<div id="1d99c355" class="cell" data-execution_count="12">
-<div class="cell-output cell-output-display" data-execution_count="12">
+<div id="1d99c355" class="cell" data-execution_count="11">
+<div class="cell-output cell-output-display" data-execution_count="11">
 <div>
 
 
@@ -666,8 +666,8 @@ window.Quarto = {
 <section id="model-construction" class="level2">
 <h2 class="anchored" data-anchor-id="model-construction">Model Construction</h2>
 <p>To determine if injury frequency is increasing, we’ll examine the per-game rate of injuries between seasons. Going back to the full-season data (except for 2025 which is still through 29 games), let’s look at the average number of injuries reported for each game:</p>
-<div id="cell-per-game-rates" class="cell" data-execution_count="13">
-<div id="per-game-rates" class="cell-output cell-output-display" data-execution_count="13">
+<div id="cell-per-game-rates" class="cell" data-execution_count="12">
+<div id="per-game-rates" class="cell-output cell-output-display" data-execution_count="12">
 <div>
 
 
@@ -786,7 +786,7 @@ window.Quarto = {
 <p>We’ll jointly estimate each season’s injury rate as well as the parameters of the Gamma distribution governing season-to-season variation. We then use this historical Gamma distribution as a prior when estimating the possible values of <span class="math inline">\(\lambda_{2026/26}\)</span>, updating it with the observed data from the first 29 games.</p>
 <p>The Gamma distribution can be parameterized in several ways. For model stability, I parameterized it in terms of its mean <span class="math inline">\(m\)</span> and concentration <span class="math inline">\(k\)</span>, where <span class="math inline">\(m\)</span> represents the average injury rate across seasons and <span class="math inline">\(k\)</span> controls how tightly individual seasons cluster around that mean. Weakly informative priors are placed on both parameters, allowing a wide range of plausible season-to-season variation while ensuring stable inference. These parameters are then converted into the corresponding <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> values using standard relationships for the Gamma distribution.</p>
 <p>Using PyMC’s coordinates feature, the model estimates posterior values for <span class="math inline">\(\lambda\)</span> for each season in our historical data set. All of this is conducted via <a href="https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo_">Markov Chain Monte Carlo sampling</a>, generating 4000 total samples.</p>
-<div id="f54fce4c" class="cell" data-execution_count="14">
+<div id="f54fce4c" class="cell" data-execution_count="13">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>past_injuries <span class="op">=</span> injuries[(injuries[<span class="st">'Season'</span>] <span class="op">!=</span> <span class="st">'2025/26'</span>)]</span>
@@ -796,7 +796,7 @@ window.Quarto = {
 <span id="cb7-5"><a href="#cb7-5" aria-hidden="true" tabindex="-1"></a>y <span class="op">=</span> past_injuries[<span class="st">'Count'</span>].to_numpy()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
-<div id="5dca284c" class="cell" data-execution_count="15">
+<div id="5dca284c" class="cell" data-execution_count="14">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> pm.Model(coords<span class="op">=</span>{<span class="st">'season'</span>: season_labels, <span class="st">'obs_id'</span>: np.arange(<span class="bu">len</span>(y))}) <span class="im">as</span> hier_injuries:</span>
@@ -819,8 +819,8 @@ window.Quarto = {
 </details>
 </div>
 <p>After sampling, we get a (fairly lengthy) summary of the results containing estimated values for <span class="math inline">\(m\)</span> and <span class="math inline">\(k\)</span>, each season’s <span class="math inline">\(\lambda\)</span>, and the <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> values for the gamma distribution that governs the injury rate across seasons. The <code>mean</code> column shows the estimated values for <span class="math inline">\(\lambda\)</span>. The <code>hdi</code> columns show the uncertainty around each estimate and indicate the range of values we can be confident about.</p>
-<div id="f5cb1cee" class="cell" data-execution_count="18">
-<div class="cell-output cell-output-display" data-execution_count="18">
+<div id="f5cb1cee" class="cell" data-execution_count="17">
+<div class="cell-output cell-output-display" data-execution_count="17">
 <div>
 
 
@@ -1018,7 +1018,7 @@ window.Quarto = {
 </div>
 <p>The model appears to have sampled well (please see the <a href="https://github.com/chrishires/NHL-Injuries/blob/main/post.ipynb">full notebook</a> for model diagnostics). Each season’s mean <span class="math inline">\(\lambda\)</span> ranges from 10.09 to 11.37. The range is narrower than the table of simple averages above, as shrinkage pulls each season’s rate toward the mean of the Gamma Distribution.</p>
 <p>The expected injury rate for a given season is the mean of our simulated Gamma distribution, which is calculated as <span class="math inline">\(\alpha \over \beta\)</span>. Using the <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> values from our 4000 samples, the mean and 95% credible interval are:</p>
-<div id="6aa95a63" class="cell" data-execution_count="19">
+<div id="6aa95a63" class="cell" data-execution_count="18">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb9"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb9-1"><a href="#cb9-1" aria-hidden="true" tabindex="-1"></a>alphas <span class="op">=</span> trace.posterior[<span class="st">'alpha'</span>].values</span>
@@ -1038,7 +1038,7 @@ window.Quarto = {
 </div>
 <p>So for any given season, we expect that the league-wide, per-game injury rate to be about 10.74 injuries. Accounting for uncertainty, we can be reasonably confident that the true expected value of <span class="math inline">\(\lambda\)</span> for a randomly selected season would fall between 10.46 and 11.04.</p>
 <p>A posterior predictive check confirms that the model fits the data well. The blue region shows the an additional 4,000 simulated distributions generated by the parameters estimated in the model. The observed data (the black line) overlaps fully with the simulated data, and also aligns fairly well with the mean of the simulated distributions (the dashed orange line).</p>
-<div id="d5d0c3bc" class="cell" data-execution_count="41">
+<div id="d5d0c3bc" class="cell" data-execution_count="20">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
@@ -1049,7 +1049,7 @@ window.Quarto = {
 </div>
 <p>The next step is to repurpose the posterior gamma distribution from our hierarchical model as the prior distribution of <span class="math inline">\(\lambda\)</span> in a model to estimate in 2025/26 injury rate. In other words, before we even see the data from 2025, we’d expect the injury rate to be about 10.74 per game. This model combines that expectation with the likelihood of the data we’ve observed so far to estimate the underlying injury rate for the 2025/26 season. Importantly, this is not the injury rate through the first 29 games, but our best guess for the full-season rate, using everything we know about the past and the little bit we know about the present.</p>
 <p>The model architecture is similar to the hierarchical model, but simpler because we have fewer variables to estimate. In fact, there’s only one this time.</p>
-<div id="849a609e" class="cell" data-execution_count="22">
+<div id="849a609e" class="cell" data-execution_count="21">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb11"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb11-1"><a href="#cb11-1" aria-hidden="true" tabindex="-1"></a>injuries_25 <span class="op">=</span> injuries[(injuries[<span class="st">'Season'</span>] <span class="op">==</span> <span class="st">'2025/26'</span>) <span class="op">&amp;</span> (injuries[<span class="st">'Game'</span>] <span class="op">&lt;=</span> <span class="dv">29</span>)]</span>
@@ -1058,7 +1058,7 @@ window.Quarto = {
 <span id="cb11-4"><a href="#cb11-4" aria-hidden="true" tabindex="-1"></a>beta_bar <span class="op">=</span> betas.mean()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
-<div id="781148b2" class="cell" data-execution_count="23">
+<div id="781148b2" class="cell" data-execution_count="22">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb12"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb12-1"><a href="#cb12-1" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> pm.Model() <span class="im">as</span> model_25:</span>
@@ -1070,8 +1070,8 @@ window.Quarto = {
 <span id="cb12-7"><a href="#cb12-7" aria-hidden="true" tabindex="-1"></a>    x <span class="op">=</span> pm.Poisson(<span class="st">'x'</span>, mu<span class="op">=</span>lam, observed<span class="op">=</span>y_25)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </details>
 </div>
-<div id="24843033" class="cell" data-execution_count="26">
-<div class="cell-output cell-output-display" data-execution_count="26">
+<div id="24843033" class="cell" data-execution_count="25">
+<div class="cell-output cell-output-display" data-execution_count="25">
 <div>
 
 
@@ -1103,7 +1103,7 @@ window.Quarto = {
 <p>Early in the season, the estimate for 2025 is pulled toward the historical center learned from past seasons, simply because there isn’t much 2025 data yet. As more games are played, the model will rely less on that historical baseline and more on what actually happens in 2025.</p>
 <p>The small amount of data also adds to the uncertainty of this estimate - there’s quite a wide credible interval for the estimate of the 2025 rate, ranging from 9.92 to 11.44. So while it looks like the 2025/26 rate is within the historic range, we don’t have enough data to completely rule out the possibility of an abnormally high rate just yet.</p>
 <p>The uncertainty about 2025 also shows up in the posterior predictive plot, which is much “cloudier” than the plot from the first model. It’s harder to make out here, but the observed data still falls within the simulations and close to the predictive mean, indicating a reasonably good fit (albeit with less certainty).</p>
-<div id="9bb984f9" class="cell" data-execution_count="43">
+<div id="9bb984f9" class="cell" data-execution_count="27">
 <div class="cell-output cell-output-display">
 <div>
 <figure class="figure">
@@ -1117,7 +1117,7 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="analysis">Analysis</h2>
 <p>Having obtained a posterior estimate of 2025’s injury rate, we can compare it with simulated data representing a typical NHL season to answer our original question: is the injury rate higher than normal this season? To do this, we’ll use the <span class="math inline">\(\alpha\)</span> and <span class="math inline">\(\beta\)</span> values from the first model to simulate 4000 new injury rates for a “typical” NHL season.</p>
 <p>To compare the typical season to the 2025 season, we compare all 4,000 values from each and count the percentage in which the 2025 rate is higher than the typical rate. The result is 45.48%, which is slightly worse than a coin flip.</p>
-<div id="d66a944a" class="cell" data-execution_count="44">
+<div id="d66a944a" class="cell" data-execution_count="28">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb13"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb13-1"><a href="#cb13-1" aria-hidden="true" tabindex="-1"></a>hist_posterior <span class="op">=</span> az.extract(trace)</span>
@@ -1140,7 +1140,7 @@ window.Quarto = {
 </div>
 </div>
 <p>Knowing if 2025 is higher by any amount may not be that meaningful, though. How much higher would the injury rate need to be to categorize this season as abnormal? Arbitrarily, we could say the injury rate needs to be at least 0.5 injuries higher than the typical season.</p>
-<div id="7e91324a" class="cell" data-execution_count="31">
+<div id="7e91324a" class="cell" data-execution_count="29">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb15"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb15-1"><a href="#cb15-1" aria-hidden="true" tabindex="-1"></a>lam_delta <span class="op">=</span> <span class="fl">0.5</span></span>
@@ -1155,7 +1155,7 @@ window.Quarto = {
 </div>
 <p>Making that comparison yields a 19.28% probability that 2025’s injury rate is significantly higher, which is obviously not great. Based on everything we’ve seen so far, I think we can say <strong>the 2025/26 season is unlikely to be significantly different from past seasons.</strong></p>
 <p>Lastly, we can use our estimated season-long injury rate to make some predictions. First, using the samples from the 2025 model, we can generate an estimate for the total number of injuries we would observe through 29 games (excluding game 1). The model expects 298 injuries, which is a bit higher than the 287 we observed through 29 games. The observed value does sit within the credible interval, though.</p>
-<div id="e9ca8448" class="cell" data-execution_count="38">
+<div id="e9ca8448" class="cell" data-execution_count="30">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb17"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb17-1"><a href="#cb17-1" aria-hidden="true" tabindex="-1"></a>total_through_29 <span class="op">=</span> (lambda_samples_25 <span class="op">*</span> <span class="dv">28</span>).mean().<span class="bu">round</span>(<span class="dv">2</span>)</span>
@@ -1170,7 +1170,7 @@ window.Quarto = {
 </div>
 </div>
 <p>We can apply the same technique to generate a prediction for the total number of injuries that will occur in the 2025/26 season. No one wants this number to be high, so this is one prediction I would be glad to miss.</p>
-<div id="9ee3ea5a" class="cell" data-execution_count="45">
+<div id="9ee3ea5a" class="cell" data-execution_count="31">
 <details class="code-fold">
 <summary>Code</summary>
 <div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb19"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb19-1"><a href="#cb19-1" aria-hidden="true" tabindex="-1"></a>pred_25 <span class="op">=</span> lambda_samples_25 <span class="op">*</span> <span class="dv">81</span></span>
@@ -1185,8 +1185,8 @@ window.Quarto = {
 </div>
 </div>
 <p>The model predicts 862 injuries by season’s end, basically exactly in line with the 2023/24 season. The credible interval ranges from 801 (slightly less than 2007/08), or as high as 925 (a little less than 2013/14). If total injuries did climb as high as 925, that would be the third-highest non-covid season this century. However, it’s much more likely the final total will be in the center of the range, near the predicted value. Here are the historic full-season counts for context:</p>
-<div id="923113d4" class="cell" data-execution_count="39">
-<div class="cell-output cell-output-display" data-execution_count="39">
+<div id="923113d4" class="cell" data-execution_count="32">
+<div class="cell-output cell-output-display" data-execution_count="32">
 <div>
 
 
